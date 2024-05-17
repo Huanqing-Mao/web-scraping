@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 
+# API functions
 def add_pointer(lst):
     pointers = []
     num = len(lst)
