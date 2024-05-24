@@ -36,11 +36,13 @@ soup = BeautifulSoup(data, 'html.parser')
 questions = soup.find_all("div", class_="bix-div-container")
 
 instr = input("Input instructions: ")
+
+
 # store each question into the list
 table = []
 for question in questions:
     
-    # question main
+    # add question main
     content = question.find("div", class_="d-flex flex-row align-items-top justify-content-start")
     q_no = content.find("div", class_="bix-td-qno").get_text() # can just don't show this
     q_main = content.find("div", class_="bix-td-qtxt table-responsive w-100")
@@ -48,7 +50,7 @@ for question in questions:
 
     q_text = ""
 
-    # if there is <p> embedded in the question div
+    # deal with <p> embedded in the question div
     if not q_texts:
         q_text = q_main.get_text()
 
@@ -59,7 +61,7 @@ for question in questions:
     options = q_main.find("ol", class_="lr-ol-upper-roman")
     bullet_s = ""
 
-    # if there are bullets in the question itself
+    # deal with bullets in the question itself
     if options:
         bullets = add_pointer(list(map(lambda x : x.get_text(), options.find_all("li"))))
         for bullet in bullets:
@@ -67,12 +69,12 @@ for question in questions:
     entire = f"{instr}\n\n{q_text.strip()}\n{bullet_s}"
 
 
-    # question multiple choices/options
+    # add multiple choices/options
     choices = question.find("div", class_="bix-tbl-options")
     idv_c = choices.find_all("div", class_="d-flex flex-row align-items-top bix-opt-row")
     idv_c = list(map(lambda x : x.find("div", class_="bix-td-option-val d-flex flex-row align-items-center").find("div", class_="flex-wrap").get_text(), idv_c))
     
-    # automatically format options
+    # format options
     formatted_choices = add_option(idv_c)
     entire_c = ""
     for c in formatted_choices:
@@ -83,7 +85,6 @@ for question in questions:
     answer = question.find("div", class_="bix-td-miscell").find("input", class_="jq-hdnakq").get('value')
 
     # add explanation: Explanation may involve <p> or <sup>
-    #explanation = question.find("div", class_="bix-td-miscell").find("div", class_="bix-ans-description table-responsive").get_text().strip()
     explanation = ""
     explanation_ele = question.find("div", class_="bix-td-miscell").find("div", class_="bix-ans-description table-responsive")
     exp_para = explanation_ele.find_all("p")
@@ -105,7 +106,7 @@ for question in questions:
     print(explanation)
     
     
-    # final row
+    # final input row
     table.append({'Question' : entire + f"\n" + entire_c, "Answer" : answer, "Solution" : explanation})
 
 
