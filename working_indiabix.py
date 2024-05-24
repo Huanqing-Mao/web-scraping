@@ -105,8 +105,6 @@ for question in questions:
     print(explanation)
     
     
-    
-    
     # final row
     table.append({'Question' : entire + f"\n" + entire_c, "Answer" : answer, "Solution" : explanation})
 
