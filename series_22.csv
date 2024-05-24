@@ -1,0 +1,46 @@
+,Question,Answer,Solution
+0,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+1, 2, 6, 7, 21, 22, 66, 67, ?
+
+A. 70
+B. 134
+C. 201
+D. 301
+",C,"The pattern is + 1, x 3, + 1, x 3, + 1, x 3, + 1,.....So, missing term = 67 x 3 = 201."
+1,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+0.5, 0.55, 0.65,0.8,?
+
+A. 0.9
+B. 0.82
+C. 1
+D. 0.95
+",C,"The pattern is + 0.05, + 0.10, + 0.15,.....So, missing term = 0.8 + 0.20 = 1."
+2,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+0, 2, 3, 5, 8, 10, 15, 17, 24, 26, ?
+
+A. 28
+B. 30
+C. 32
+D. 35
+",D,"The given sequence is a combination of two series :I. 0, 3, 8, 15, 24, ? and II. 2, 5, 10, 17, 26The pattern in each one of I and II is + 3, + 5, + 7, + 9, .....So, missing term = 24 + 11 = 35."
+3,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+11, 13, 17, 19, 23, 25, ?
+
+A. 26
+B. 27
+C. 29
+D. 37
+",C,"The pattern is + 2, + 4, + 2, + 4, .....So, missing term = 25 + 4 = 29."
+4,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+5, 2, 7, 9, 16, 25, ?
+
+A. 41
+B. 45
+C. 48
+D. 52
+",A,"Each term in the series, except the first two terms, is the sum of the preceding twoterms.So, missing term = 16 + 25 = 41."

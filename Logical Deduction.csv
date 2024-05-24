@@ -1,5 +1,5 @@
-Question,Answer,Solution
-"1. Statements:  All branches are flowers. All flowers are leaves.
+,Question,Answer,Solution
+0,"1. Statements:  All branches are flowers. All flowers are leaves.
 Conclusions:
 
 
@@ -13,7 +13,7 @@ B. Only I and IV follow
 C. Only II and III follow
 D. All follow
 ",B,"Since both the premises are universal and affirmative, the conclusion must be universal affirmative and should not contain the middle term. So, it follows that 'All branches are leaves'. Thus, I follows. IV is the converse of this conclusion and so it also holds."
-"2. Statements:  Some bags are pockets. No pocket is a pouch.
+1,"2. Statements:  Some bags are pockets. No pocket is a pouch.
 Conclusions:
 
 
@@ -28,7 +28,7 @@ C. Only II and III follow
 D. Only either I or IV follows
 E. All follow
 ",C,"Since one premise is particular and the other negative, the conclusion must be particular negative and should not contain the middle term. So, II follows. III is the converse of the first premise and thus it also holds."
-"3. Statements:  All aeroplanes are trains. Some trains are chairs.
+2,"3. Statements:  All aeroplanes are trains. Some trains are chairs.
 Conclusions:
 
 
@@ -42,7 +42,7 @@ B. Only I and II follow
 C. Only II and III follow
 D. Only III and IV follow
 ",D,"Since the middle term 'trains' is not distributed even once in the/premises, no definite conclusion follows. However, III is the converse of the second premise while IV is the converse of the first premise. So, both of them hold."
-"4. Statements:  All politicians are honest. All honest are fair.
+3,"4. Statements:  All politicians are honest. All honest are fair.
 Conclusions:
 
 
@@ -56,7 +56,7 @@ B. Only I follows.
 C. Only I and II follow.
 D. Only I and III follow
 ",D,"Clearly, it follows that 'All politicians are fair'. I is the converse of the first premise, while III is the converse of the above conclusion. So, both I and III hold."
-"5. Statements:  Some clothes are marbles. Some marbles are bags.
+4,"5. Statements:  Some clothes are marbles. Some marbles are bags.
 Conclusions:
 
 

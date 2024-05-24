@@ -1,0 +1,72 @@
+Question,Answer,Solution
+"1. Statements:  All branches are flowers. All flowers are leaves.
+Conclusions:
+
+
+I. All branches are leaves.
+II. All leaves are branches.
+III. All flowers are branches.
+IIII. Some leaves are branches.
+
+A. None follows
+B. Only I and IV follow
+C. Only II and III follow
+D. All follow
+",B,"Since both the premises are universal and affirmative, the conclusion must be universal affirmative and should not contain the middle term. So, it follows that 'All branches are leaves'. Thus, I follows. IV is the converse of this conclusion and so it also holds."
+"2. Statements:  Some bags are pockets. No pocket is a pouch.
+Conclusions:
+
+
+I. No bag is a pouch.
+II. Some bags are not pouches.
+III. Some pockets are bags.
+IIII. No pocket is a bag,
+
+A. None follows
+B. Only I and III follow
+C. Only II and III follow
+D. Only either I or IV follows
+E. All follow
+",C,"Since one premise is particular and the other negative, the conclusion must be particular negative and should not contain the middle term. So, II follows. III is the converse of the first premise and thus it also holds."
+"3. Statements:  All aeroplanes are trains. Some trains are chairs.
+Conclusions:
+
+
+I. Some aeroplanes are chairs.
+II. Some chairs are aeroplanes.
+III. Some chairs are trains.
+IIII. Some trains are aeroplanes.
+
+A. None follows
+B. Only I and II follow
+C. Only II and III follow
+D. Only III and IV follow
+",D,"Since the middle term 'trains' is not distributed even once in the/premises, no definite conclusion follows. However, III is the converse of the second premise while IV is the converse of the first premise. So, both of them hold."
+"4. Statements:  All politicians are honest. All honest are fair.
+Conclusions:
+
+
+I. Some honest are politicians.
+II. No honest is politician.
+III. Some fair are politicians.
+IIII. All fair are politicians.
+
+A. None follows.
+B. Only I follows.
+C. Only I and II follow.
+D. Only I and III follow
+",D,"Clearly, it follows that 'All politicians are fair'. I is the converse of the first premise, while III is the converse of the above conclusion. So, both I and III hold."
+"5. Statements:  Some clothes are marbles. Some marbles are bags.
+Conclusions:
+
+
+I. No cloth is a bag.
+II. All marbles are bags.
+III. Some bags are clothes.
+IIII. No marble is a cloth.
+
+A. Only either I or IV follows
+B. Only either I or II follows
+C. None follows
+D. Only either I or III follows
+",D,"Since both the premises are particular, no definite conclusion follows. However, I and III involve only the extreme terms and form a complementary pair. Thus, either I or III follows."

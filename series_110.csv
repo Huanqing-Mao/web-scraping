@@ -1,0 +1,25 @@
+,Question,Answer,Solution
+0,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+10, 100, 200, 310, ?
+A. 400
+B. 410
+C. 420
+D. 430
+",D,"The pattern is + 90 + 100, + 110,.....So, missing term = 310 + 120 = 430."
+1,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+11, 10, ?, 100, 1001, 1000, 10001
+A. 101
+B. 110
+C. 111
+D. None of these
+",A,"The pattern is - 1, x 10 + 1, - 1, x 10 + 1, - 1, x 10 + 1, .....So, missing term = 10 x 10 + 1 = 101."
+2,"Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.
+
+2, 7, 27, 107, 427, ?
+A. 1262
+B. 1707
+C. 4027
+D. 4207
+",B,"The pattern is + 5, + 20, + 80, + 320, ...... i.e. + (5 x 12), + (5 x 22), + (5 x 42), + (5 x 82),.....So, missing term = 427 + (5 x 162) = 427 + 1280 = 1707."
