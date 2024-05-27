@@ -1,0 +1,914 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#f1f1f1">
+    <title>Statement and Assumption Section 2 - Logical Reasoning Questions and Answers Page 6</title>
+    <meta name = "description" content = "Logical Reasoning questions and answers section on &quot;Statement and Assumption Section 2&quot; for placement interviews and competitive exams: Fully solved Logical Reasoning problems with detailed answer descriptions and explanations are given for the &quot;Statement and Assumption Section 2&quot; section - Page 6.">                      
+    <link rel="shortcut icon" href="https://www.indiabix.com/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://www.indiabix.com/_files/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.indiabix.com/_files/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://www.indiabix.com/_files/css/main.min.css?ver=1.04">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E20ELFGHR5"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-E20ELFGHR5');</script>
+    <style>.top_ad_unit, .right_ad_unit, .bottom_ad_unit {min-width:250px; width: 100%;} ins.adsbygoogle { background: transparent !important; }</style>
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-0191447310372013?ers=1" nonce="pao_y7pIpyQovEpXG_CiRg"></script><script nonce="pao_y7pIpyQovEpXG_CiRg">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script> 
+  </head>
+  <body class="">  
+  <aside class="sidebar-nav-wrapper">
+    <div class="navbar-logo"><a href="https://www.indiabix.com/" aria-label="IndiaBix Logo"></a></div>
+    <nav class="sidebar-nav">
+        <ul>
+            <li class="nav-item"><a href="https://www.indiabix.com/"><span class="icon"><i class="mdi mdi-home"></i></span><span class="text">Home</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/aptitude/questions-and-answers/"><span class="icon"><i class="mdi mdi-math-integral-box"></i></span><span class="text">Arithmetic Aptitude</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/data-interpretation/questions-and-answers/"><span class="icon"><i class="mdi mdi-chart-box"></i></span><span class="text">Data Interpretation</span></a></li>
+            <!--<li class="divider"></li>-->
+            <li class="nav-item"><a href="https://www.indiabix.com/verbal-ability/questions-and-answers/"><span class="icon"><i class="mdi mdi-text-box-check"></i></span><span class="text">Verbal Ability</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/logical-reasoning/questions-and-answers/"><span class="icon"><i class="mdi mdi-chart-arc"></i></span><span class="text">Logical Reasoning</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/verbal-reasoning/questions-and-answers/"><span class="icon"><i class="mdi mdi-alphabetical-variant"></i></span><span class="text">Verbal Reasoning</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/non-verbal-reasoning/questions-and-answers/"><span class="icon"><i class="mdi mdi-collage"></i></span><span class="text">Nonverbal Reasoning</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/online-test/categories/"><span class="icon"><i class="mdi mdi-clock-outline"></i></span><span class="text">Online Tests</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/current-affairs/questions-and-answers/"><span class="icon"><i class="mdi mdi-earth"></i></span><span class="text">Current Affairs</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/general-knowledge/questions-and-answers/"><span class="icon"><i class="mdi mdi-head-lightbulb mdi-flip-h"></i></span><span class="text">General Knowledge</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/hr-interview/questions-and-answers/"><span class="icon"><i class="mdi mdi-tooltip-account"></i></span><span class="text">HR Interview</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/group-discussion/topics-with-answers/"><span class="icon"><i class="mdi mdi-account-supervisor"></i></span><span class="text">Group Discussion</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/placement-papers/companies/"><span class="icon"><i class="mdi mdi-checkbox-multiple-blank"></i></span><span class="text">Placement Papers</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/technical/interview-questions-and-answers/"><span class="icon"><i class="mdi mdi-comment-account"></i></span><span class="text">Technical Interview</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/mechanical-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-wrench"></i></span><span class="text">Mechanical Engineering</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/civil-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-city"></i></span><span class="text">Civil Engineering</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/electronics-and-communication-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-memory"></i></span><span class="text">ECE</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/electrical-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-power-plug"></i></span><span class="text">EEE</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/computer-science/questions-and-answers/"><span class="icon"><i class="mdi mdi-laptop"></i></span><span class="text">CSE</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/engineering/"><span class="icon"><i class="mdi mdi-more lni-rotate-180"></i></span><span class="text">Read more&#8230;</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/c-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-c"></i></span><span class="text">C Programming</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/cpp-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-cpp"></i></span><span class="text">C++</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/c-sharp-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-csharp"></i></span><span class="text">C#</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/java-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-java"></i></span><span class="text">Java</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/database/questions-and-answers/"><span class="icon"><i class="mdi mdi-database"></i></span><span class="text">Database</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/networking/questions-and-answers/"><span class="icon"><i class="mdi mdi-lan"></i></span><span class="text">Networking</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/microbiology/questions-and-answers/"><span class="icon"><i class="mdi mdi-dna"></i></span><span class="text">Microbiology</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/biochemistry/questions-and-answers/"><span class="icon"><i class="mdi mdi-checkbox-multiple-blank-circle"></i></span><span class="text">Biochemistry</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/biotechnology/questions-and-answers/"><span class="icon"><i class="mdi mdi-circle-multiple-outline"></i></span><span class="text">Biotechnology</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/biochemical-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-chart-bubble"></i></span><span class="text">Biochemical </span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/puzzles/number-puzzles/"><span class="icon"><i class="mdi mdi-checkerboard"></i></span><span class="text">Puzzles Quiz</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/puzzles/sudoku/"><span class="icon"><i class="mdi mdi-grid"></i></span><span class="text">Sudoku</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/contact-us"><span class="icon"><i class="mdi mdi-card-account-mail-outline"></i></span><span class="text">Contact Us</span></a></li>
+        </ul>
+    </nav>
+  </aside>
+  <div class="overlay"></div>
+  <main class="main-wrapper">
+    <header class="header">
+        <div class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-lg-5 col-md-5 col-6">
+                    <div class="header-left d-flex align-items-center">
+                        <div class="menu-toggle-btn">
+                            <button aria-label="Menu Toggle" id="menu-toggle" class="main-btn">
+                                <i class="mdi mdi-menu"></i>
+                            </button>
+                        </div>
+                        <div class="head-name">
+                            <a href="https://www.indiabix.com/">IndiaBIX</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-7 col-6">
+                    <div class="header-right d-flex align-items-center">
+                        <div class="header-search d-none d-sm-block" id="search-form-box">
+                            <form method="get" id="search-form" name="search form" action="https://www.google.co.in/search" target="_blank">
+                                <input type="hidden" name="sitesearch" value="www.indiabix.com">
+                                <button aria-label="Search Submit" ><i class="mdi mdi-magnify mdi-24px"></i></button>
+                                <input name="as_q" id="txtSearchKey" class="search-box" type="text" placeholder="Search">
+                            </form>
+                        </div>
+                        <button aria-label="Search" id="btnSearch" class="header-button d-block d-sm-none">
+                        <i class="mdi mdi-magnify "></i>
+                        </button>       
+                        <button aria-label="Page Share" id="btnShare" class="header-button"><i class="mdi mdi-share"></i></button>
+                        <button aria-label="Theme Toggle" id="btnTheme" class="header-button"><i class="mdi mdi-theme-light-dark mdi-rotate-315"></i></button>
+                        <a href="https://www.indiabix.com/user/login/" id="btnLogin" class="header-button" aria-label="Login to stay connected with IndiaBIX!"><i class="mdi mdi-login"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+      <section class="section">
+        <div class="container-fluid">
+        
+            <div class="row no-gutters">
+                <div class="title-wrapper">
+                    <div class="title d-flex flex-row">
+                        <span class="mdi mdi-chart-arc ib-text-title"></span>
+                        <div><h1 class="flex-wrap w-100 add-color">Logical Reasoning - Statement and Assumption</h1></div>
+                    </div>
+                    
+                    <div class="card-style py-1">
+                        <div class="breadcrumb-wrapper ">
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb my-1">
+                                        <li class="breadcrumb-item"><a href="https://www.indiabix.com/" >Home</a></li><li class="breadcrumb-item">
+                                        <a href="https://www.indiabix.com/logical-reasoning/questions-and-answers/">Logical Reasoning</a>
+                                    </li><li class="breadcrumb-item">
+                                        <a href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/">Statement and Assumption</a>
+                                    </li><li class="breadcrumb-item">
+                                        <a href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044001">Section 2</a>
+                                    </li><li  class="breadcrumb-item active" aria-current="page">
+                                        Page 6 of 10
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>                
+                            
+            <div class="row no-gutters">
+                <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
+                    <div class="ques-wrapper">
+                        <div class="d-flex flex-row justify-content-center align-items-center mb-3 w-100"><!-- ResTop -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0191447310372013" crossorigin="anonymous"></script>
+<ins class="adsbygoogle top_ad_unit" style="display:block; height:90px;" data-ad-client="ca-pub-0191447310372013" data-ad-slot="9462193524" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+                        <div class="card-style">
+                            <div class="exercise mb-3">
+                                    <div class="h5 w-100 mb-3 p-0"><span>Exercise :</span> Statement and Assumption - Section 2</div>                   
+                                    <div class="scrolly-250 scrolly-bg1">
+                                        <ul>
+                                            <li class="d-flex flex-row"><a href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/">Statement and Assumption - Section 1</a></li><li class="current d-flex flex-row">Statement and Assumption - Section 2</li><li class="d-flex flex-row"><a href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/045001">Statement and Assumption - Section 3</a></li><li class="d-flex flex-row"><a href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/046001">Statement and Assumption - Section 4</a></li><li class="d-flex flex-row"><a href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/055001">Statement and Assumption - Section 5</a></li><li class="d-flex flex-row"><a href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/056001">Statement and Assumption - Section 6</a></li>
+                                        </ul>
+                                    </div>   
+                                </div><div class="direction-div" id="direction">
+                                    <div class="h5 w-100"><i class="mdi mdi-bullhorn"> </i> Directions to Solve</div>                   
+                                    <div class="direction-text">
+                                            <p>In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.</p>
+        <p>Give answer</p>
+        <ul class="lr-ul-disc">
+            <li>(A) If only assumption I is implicit</li>
+            <li>(B) If only assumption II is implicit</li>
+            <li>(C) If either I or II is implicit</li>
+            <li>(D) If neither I nor II is implicit</li>
+            <li>(E) If both I and II are implicit.</li>
+        </ul>
+        <p></p>
+                                    </div>   
+                                </div><hr>
+                            <div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno26" rowspan="2">26.</div><div class="bix-td-qtxt table-responsive w-100"><p><b>Statement: </b> Please consult us before making any decision on investment.</p> 
+<p><b>Assumptions:</b></p>
+<p></p><ol class="lr-ol-upper-roman"> 
+<li>You may take a wrong decision if you don't consult us.</li> 
+<li>It is important to take a right decision.</li> 
+</ol><p></p></div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_744">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_744"><span
+                                                            id="lnkOptionLink_A_744" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_744">
+                                                        <div class="flex-wrap">Only assumption I is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_744"><span
+                                                            id="lnkOptionLink_B_744" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_744">
+                                                        <div class="flex-wrap">Only assumption II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_744"><span
+                                                            id="lnkOptionLink_C_744" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_744">
+                                                        <div class="flex-wrap">Either I or II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_744"><span
+                                                            id="lnkOptionLink_D_744" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_744">
+                                                        <div class="flex-wrap">Neither I nor II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_E_744"><span
+                                                            id="lnkOptionLink_E_744" class="mdi mdi-alpha-e-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_E_744">
+                                                        <div class="flex-wrap">Both I and II are implicit</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_744" value="E">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_744">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-e-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    Clearly, the statement was spoken for fear that the other person may take a wrong decision. So, I is implicit. Again, the statement confirms that it is important to take the right decision. So, II is also implicit.
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_744">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_744">
+                                                <textarea class="bix-report-txt" data-qid="744"
+                                                          name="txtBixReport_744" id="txtBixReport_744" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_744" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_744"
+                                                           data-sid = "5" data-qid="744" data-qno="26"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_744">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_744"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_744"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/discussion-744#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_744"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_744"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_744"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_744"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno27" rowspan="2">27.</div><div class="bix-td-qtxt table-responsive w-100"><p><b>Statement: </b> The Parent Teacher Association (PTA) of a school has informed the Principal that they will not send their children to the school unless the school - authority reduces the fees with immediate effect.</p> 
+<p><b>Assumptions:</b></p>
+<p></p><ol class="lr-ol-upper-roman"> 
+<li>Majority of the parents may agree with the PTA and may not send their wards with the school</li> 
+<li>The school authority may accede to the demand of the PTA and reduce the fees.</li> 
+</ol><p></p></div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_734">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_734"><span
+                                                            id="lnkOptionLink_A_734" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_734">
+                                                        <div class="flex-wrap">Only assumption I is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_734"><span
+                                                            id="lnkOptionLink_B_734" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_734">
+                                                        <div class="flex-wrap">Only assumption II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_734"><span
+                                                            id="lnkOptionLink_C_734" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_734">
+                                                        <div class="flex-wrap">Either I or II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_734"><span
+                                                            id="lnkOptionLink_D_734" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_734">
+                                                        <div class="flex-wrap">Neither I nor II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_E_734"><span
+                                                            id="lnkOptionLink_E_734" class="mdi mdi-alpha-e-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_E_734">
+                                                        <div class="flex-wrap">Both I and II are implicit</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_734" value="E">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_734">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-e-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    The PTA is an association which would surely reflect the parents' interests and act to get them fulfilled. So, both I and II are implicit.
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_734">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_734">
+                                                <textarea class="bix-report-txt" data-qid="734"
+                                                          name="txtBixReport_734" id="txtBixReport_734" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_734" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_734"
+                                                           data-sid = "5" data-qid="734" data-qno="27"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_734">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_734"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_734"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/discussion-734#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_734"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_734"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_734"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_734"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno28" rowspan="2">28.</div><div class="bix-td-qtxt table-responsive w-100"><p><b>Statement: </b> "Those who are appearing for this examination for the first time should be helped in filling up the form." - An instruction to invigilating staff.</p> 
+<p><b>Assumptions:</b></p>
+<p></p><ol class="lr-ol-upper-roman"> 
+<li>The form is somewhat complicated.</li> 
+<li>Candidates can appear more than once for this examination.</li> 
+</ol><p></p></div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_694">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_694"><span
+                                                            id="lnkOptionLink_A_694" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_694">
+                                                        <div class="flex-wrap">Only assumption I is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_694"><span
+                                                            id="lnkOptionLink_B_694" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_694">
+                                                        <div class="flex-wrap">Only assumption II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_694"><span
+                                                            id="lnkOptionLink_C_694" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_694">
+                                                        <div class="flex-wrap">Either I or II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_694"><span
+                                                            id="lnkOptionLink_D_694" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_694">
+                                                        <div class="flex-wrap">Neither I nor II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_E_694"><span
+                                                            id="lnkOptionLink_E_694" class="mdi mdi-alpha-e-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_E_694">
+                                                        <div class="flex-wrap">Both I and II are implicit</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_694" value="B">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_694">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-b-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    The statement mentions that only those students are to be helped who are filling up the form for the first time. This does not mean that the form is complicated/So, I is not implicit. However, II follows from the statement and so is implicit.
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_694">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_694">
+                                                <textarea class="bix-report-txt" data-qid="694"
+                                                          name="txtBixReport_694" id="txtBixReport_694" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_694" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_694"
+                                                           data-sid = "5" data-qid="694" data-qno="28"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_694">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_694"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_694"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/discussion-694#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_694"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_694"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_694"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_694"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno29" rowspan="2">29.</div><div class="bix-td-qtxt table-responsive w-100"><p><b>Statement: </b> Success is how much a person bounces up after hitting the bottom.</p> 
+<p><b>Assumptions:</b></p>
+<p></p><ol class="lr-ol-upper-roman"> 
+<li>Success requires conscious efforts without being discouraged by failure.</li> 
+<li>Failure cannot be considered an acceptable thing.</li> 
+</ol><p></p></div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_762">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_762"><span
+                                                            id="lnkOptionLink_A_762" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_762">
+                                                        <div class="flex-wrap">Only assumption I is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_762"><span
+                                                            id="lnkOptionLink_B_762" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_762">
+                                                        <div class="flex-wrap">Only assumption II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_762"><span
+                                                            id="lnkOptionLink_C_762" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_762">
+                                                        <div class="flex-wrap">Either I or II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_762"><span
+                                                            id="lnkOptionLink_D_762" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_762">
+                                                        <div class="flex-wrap">Neither I nor II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_E_762"><span
+                                                            id="lnkOptionLink_E_762" class="mdi mdi-alpha-e-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_E_762">
+                                                        <div class="flex-wrap">Both I and II are implicit</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_762" value="A">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_762">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-a-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    The statement defines 'Success' as 'bouncing up'. This means that success can be achieved by striving hard to touch the top, without being harassed by any of the hurdles which come in the way. So, I is implicit. The fact in II cannot be assumed from the given statement.
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_762">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_762">
+                                                <textarea class="bix-report-txt" data-qid="762"
+                                                          name="txtBixReport_762" id="txtBixReport_762" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_762" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_762"
+                                                           data-sid = "5" data-qid="762" data-qno="29"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_762">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_762"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_762"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/discussion-762#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_762"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_762"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_762"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_762"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno30" rowspan="2">30.</div><div class="bix-td-qtxt table-responsive w-100"><p><b>Statement: </b> The company has the right to reject any application form without furnishing any reason while sorting the list of candidates for interview - A condition mentioned in the employment notice.</p> 
+<p><b>Assumptions:</b></p>
+<p></p><ol class="lr-ol-upper-roman"> 
+<li>It is desirable to call only eligible candidates for interview.</li> 
+<li>The company believes in following impartial practice in all its functions.</li> 
+</ol><p></p></div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_749">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_749"><span
+                                                            id="lnkOptionLink_A_749" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_749">
+                                                        <div class="flex-wrap">Only assumption I is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_749"><span
+                                                            id="lnkOptionLink_B_749" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_749">
+                                                        <div class="flex-wrap">Only assumption II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_749"><span
+                                                            id="lnkOptionLink_C_749" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_749">
+                                                        <div class="flex-wrap">Either I or II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_749"><span
+                                                            id="lnkOptionLink_D_749" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_749">
+                                                        <div class="flex-wrap">Neither I nor II is implicit</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_E_749"><span
+                                                            id="lnkOptionLink_E_749" class="mdi mdi-alpha-e-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_E_749">
+                                                        <div class="flex-wrap">Both I and II are implicit</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_749" value="A">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_749">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-a-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    . Since the statement talks of the company short-listing the candidates to be called for interview, so I is implicit. However, nothing can be deduced about whether the company would make a partial or fair selection of candidates. So, II is not implicit.
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_749">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_749">
+                                                <textarea class="bix-report-txt" data-qid="749"
+                                                          name="txtBixReport_749" id="txtBixReport_749" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_749" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_749"
+                                                           data-sid = "5" data-qid="749" data-qno="30"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_749">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_749"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_749"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/discussion-749#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_749"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_749"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_749"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_749"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div>
+                            <hr><div class="d-flex flex-row justify-content-center align-items-center"><!-- ResBottom -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0191447310372013" crossorigin="anonymous"></script>
+<ins class="adsbygoogle bottom_ad_unit" style="display:block" data-ad-client="ca-pub-0191447310372013" data-ad-slot="4948233444" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+                            <hr><nav aria-label="Page navigation">
+          <ul class="pagination justify-content-center flex-wrap">
+          <li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044005"><span class='d-none d-sm-block'>Prev</span><i class='mdi mdi-chevron-double-left d-sm-none'></i></a></li><li class="page-item"><a class="page-link" href="#goto" aria-label="Jump to Page" data-bs-target="#GotoPageModal" data-bs-toggle="modal">
+                        <i class="mdi mdi-debug-step-over"></i></a></li><!-- Modal -->
+<div class="modal fade" id="GotoPageModal" tabindex="-1" role="dialog" aria-labelledby="bixModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+        
+        <div class="modal-body"><form id="goto_modal_form" method="POST" target="_self">
+    <div class="col-12 input-style-1 goto-page-div mt-4 ">
+        <label>Enter a page number between 1 and 10:</label>
+        <input class="goto-page-input" type="text" inputmode="numeric" min="1" max="10" id="inp_pg_no" name="inp_pg_no" placeholder="" value="" autocomplete="off">
+        <button type="submit" class="bix-btn bix-btn-dark goto-page-btn ms-4" id="goto_page_submit" disabled="disabled">Go</button>
+        <input type="hidden" id="inp_pg_no_max" name="inp_pg_no_max" value="10">
+        <input type="hidden" id="inp_pg_link_pad" name="inp_pg_link_pad" value="NeedPad">
+        <input type="hidden" id="inp_pg_no_url" name="inp_pg_no_url" value="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044[[[p-no]]]">
+        <input type="hidden" id="home_page_url" name="home_page_url" value="https://www.indiabix.com/logical-reasoning/statement-and-assumption/">
+        <input type="hidden" id="is_default_dir" name="is_default_dir" value="">
+        <input type="hidden" id="goto_page_url" name="goto_page_url" value="">
+    </div>
+    <div id="js_resp_goto_page" class="row resp-goto-page text-center justify-content-center"><br></div>
+</form></div>
+        
+    </div>
+  </div>
+</div><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044001">1</a></li>            <li class="page-item disabled">
+                  <a aria-label="Page Link" class="page-link" href="#" tabindex="-1" aria-disabled="true">...</a>
+                </li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044005">5</a></li>    <li class="page-item active" aria-current="page">
+                  <span class="page-link">6</span>
+                </li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044007">7</a></li>            <li class="page-item disabled">
+                  <a aria-label="Page Link" class="page-link" href="#" tabindex="-1" aria-disabled="true">...</a>
+                </li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044010">10</a></li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/logical-reasoning/statement-and-assumption/044007"><span class='d-none d-sm-block'>Next</span><i class='mdi mdi-chevron-double-right d-sm-none'></i></a></li>
+           </ul>
+        </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                        
+
+                    <div class="card-style top-margin-xs">
+                        <div class="quick-link text-center">
+                            
+<div id="carouselRightTop" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item text-start active">
+    <a class="carousel-link" href="https://www.indiabix.com/current-affairs/questions-and-answers/">
+       <div class="d-flex flex-row align-items-stretch">
+            <div class="carousel-icon">
+                <i class="mdi mdi-alarm-check mdi-48px me-2"></i>
+            </div>
+            <div class="d-flex flex-column align-items-start justify-content-center">
+            <h5>Current Affairs</h5>
+            <div class="text-small">Check out the latest current affairs questions and answers.</div>
+            </div>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-item text-start">
+      <a class="carousel-link" href="https://www.indiabix.com/interview/">
+      <div class="d-flex flex-row align-items-stretch">
+            <div class="carousel-icon">
+                <i class="mdi mdi-comment-text-multiple-outline mdi-48px mdi-flip-h me-2"></i>
+            </div>
+            <div class="d-flex flex-column align-items-start justify-content-center">
+            <h5>Interview Questions</h5>
+            <div class="text-small">Check out the latest interview questions and answers.</div>
+            </div>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-item text-start">
+      <a class="carousel-link" href="https://www.indiabix.com/group-discussion/">
+       <div class="d-flex flex-row align-items-stretch">
+            <div class="carousel-icon">
+                <i class="mdi mdi-account-box-multiple-outline mdi-48px me-2"></i>
+            </div>
+            <div class="d-flex flex-column align-items-start justify-content-center">
+                <h5>Group Discussions</h5>
+                <div class="text-small">Check out the latest group discussions.</div>
+            </div>
+        </div>
+      
+      </a>
+    </div>
+  </div>
+</div>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-row justify-content-center align-items-center d-none d-md-flex mb-3 w-100"><!-- ResRightSquare -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0191447310372013" crossorigin="anonymous"></script>
+<ins class="adsbygoogle right_ad_unit" style="display:block" data-ad-client="ca-pub-0191447310372013" data-ad-slot="1826944762" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+                    <div class="card-style top-margin-extra-xs">
+                        <div class="quick-link">
+                            <div class="card-title">Quick links</div>
+                            <div class="row">
+                                <div class="col-xxl-6 col-12">
+                                    <div class="h5">Quantitative Aptitude</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/aptitude/questions-and-answers/"
+                                               title="Arithmetic Aptitude">Arithmetic</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/data-interpretation/questions-and-answers/">Data
+                                            Interpretation</a></li>
+                                    </ul>
+
+                                    <div class="h5">Verbal (English)</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/verbal-ability/questions-and-answers/">Verbal Ability</a></li>
+                                        <li><a href="https://www.indiabix.com/online-test/verbal-ability-test/">Verbal Test</a></li>
+                                    </ul>
+
+                                    <div class="h5">Reasoning</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/logical-reasoning/questions-and-answers/"
+                                               title="Logical Reasoning">Logical</a></li>
+                                        <li><a href="https://www.indiabix.com/verbal-reasoning/questions-and-answers/"
+                                               title="Verbal Reasoning">Verbal</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/non-verbal-reasoning/questions-and-answers/"
+                                               title="Nonverbal Reasoning">Nonverbal</a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                                <div class="col-xxl-6 col-12">
+                                    <div class="h5">Programming</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/c-programming/questions-and-answers/">C Programming</a></li>
+                                        <li><a href="https://www.indiabix.com/cpp-programming/questions-and-answers/" title="C++ Programming">C++</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/c-sharp-programming/questions-and-answers/"
+                                               title="C# Programming">C#</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/java-programming/questions-and-answers/" title="Java Programming">Java</a>
+                                        </li>
+                                    </ul>
+
+                                    <div class="h5">Interview</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/group-discussion/topics-with-answers/"
+                                               title="Group Discussion Topics">GD</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/hr-interview/questions-and-answers/"
+                                               title="HR Interview Questions">HR</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/technical/interview-questions-and-answers/"
+                                               title="Technical Interview Questions">Technical Interview</a></li>
+                                    </ul>
+
+                                    <div class="h5"> Placement Papers</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/placement-papers/companies/">Placement Papers</a></li>
+                                        <li><a href="https://www.indiabix.com/placement-papers/submit/" title="Submit Placement Papers">Submit
+                                            Paper</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                    
+                </div>
+            </div>
+        </div>
+      </section>
+        <footer class="footer">
+        <div class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-md-6 order-last order-md-first">
+                    <div class="copyright text-center text-md-start">
+                        <p class="text-sm">
+                            &copy; IndiaBIX&trade; Technologies
+                        </p>
+                    </div>
+                </div>
+                <!-- end col-->
+                <div class="col-md-6">
+                    <div class="terms d-flex justify-content-center justify-content-md-end">
+                        <a class="text-link text-sm" href="https://www.indiabix.com/contact-us/">Contact Us</a>
+                        <a class="text-link text-sm ml-15" href="https://www.indiabix.com/copyright/">Copyright</a>
+                        <a class="text-link text-sm ml-15" href="https://www.indiabix.com/privacy-policy/">Privacy Policy</a>
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </footer>
+    </main>
+    
+    <script src="https://www.indiabix.com/_files/js/util/bootstrap.bundle.min.js"></script>
+    <script src="https://www.indiabix.com/_files/js/main.min.js?ver=1.0"></script>
+    
+  </body>
+</html>

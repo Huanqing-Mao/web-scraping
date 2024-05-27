@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.
+
+Statement:  ""Please do not wait for me, I may be late, start taking lunch as soon as the guests arrive. - A message from a Director of a Company to his office managers.
+Assumptions:
+I. Keeping guests waiting is not desirable.
+II. Lunch may not be ready in time.
+
+A. Only assumption I is implicit
+B. Only assumption II is implicit
+C. Either I or II is implicit
+D. Neither I nor II is implicit
+E. Both I and II are implicit
+",A,"Clearly, the Director instructs his managers not to keep the guests waiting because of him and to proceed with lunch soon after their arrival. This implies that lunch would be ready in time. So, only I is implicit."
+1,"In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.
+
+Statement:  If you have any problems, bring them to me.
+Assumptions:
+I. You have some problems.
+II. I can solve any problem.
+
+A. Only assumption I is implicit
+B. Only assumption II is implicit
+C. Either I or II is implicit
+D. Neither I nor II is implicit
+E. Both I and II are implicit
+",B,"The word 'If shows that 'you' do not necessarily have problems. So, I is not implicit. Also, the statement states that problems will be solved by 'me'. So II is implicit."
+2,"In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.
+
+Statement:  A sentence in the letter to the candidates called for written examination - 'You have to bear your expenses on travel etc'.
+Assumptions:
+I. If not clarified all the candidates may claim reimbursement of expenses.
+II. Many organizations reimburse expenses on travel to candidates called for written examination.
+
+A. Only assumption I is implicit
+B. Only assumption II is implicit
+C. Either I or II is implicit
+D. Neither I nor II is implicit
+E. Both I and II are implicit
+",E,"Clearly, not mentioning the condition may provoke all the candidates to demand their claim. So, I is implicit. The condition is mentioned because some companies do reimburse the travel expenses. So, II is also implicit."
+3,"In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.
+
+Statement:  The State Government has abolished the scheme of providing concessional air ticket to students.
+Assumptions:
+I. Students will not travel by air in future.
+II. The students who resort to travel by air can bear the expenses of air ticket.
+
+A. Only assumption I is implicit
+B. Only assumption II is implicit
+C. Either I or II is implicit
+D. Neither I nor II is implicit
+E. Both I and II are implicit
+",B,"The scheme has been abolished not to discourage the students from travelling by air but keeping in mind that the abolition of scheme won't stop them from travelling by air. So, only II is implicit."
+4,"In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.
+
+Statement:  ""To buy a X - T.V, contact Y - the sole agent of X-T.V."" - An advertisement.
+Assumptions:
+I. People generally prefer to buy T.V. through sole agent.
+II. The T.V. producing companies do not sell their products directly.
+
+A. Only assumption I is implicit
+B. Only assumption II is implicit
+C. Either I or II is implicit
+D. Neither I nor II is implicit
+E. Both I and II are implicit
+",D,"The advertisement persuades the people to meet the sole agent Y to buy X-T. V. This does not mean that the people prefer to buy TV. through the sole agent or that the TV. companies only sell their products through the sole agents. So, both I and II are not implicit."
