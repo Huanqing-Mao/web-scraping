@@ -1,0 +1,167 @@
+,Question,Answer,Solution
+0,"The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.
+
+Fact 1:
+All dogs like to run.
+
+
+Fact 2:
+Some dogs like to swim.
+
+
+Fact 3:
+Some dogs look like their masters.
+
+
+If the first three statements are facts, which of the following statements must also be a fact?
+
+
+I:
+All dogs who like to swim look like their masters.
+
+
+II:
+Dogs who like to swim also like to run.
+
+
+III:
+Dogs who like to run do not look like their masters.
+
+A. I only
+B. II only
+C. II and III only
+D. None of the statements is a known fact.
+",B,"Statement II is the only true statement. Since all dogs like to run, then the ones who like to swim also like to run. There is no support for statement I or statement III."
+1,"The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.
+
+Fact 1:
+Jessica has four children
+
+
+Fact 2:
+Two of the children have blue eyes and two of the children have brown eyes.
+
+
+Fact 3:
+Half of the children are girls.
+
+
+If the first three statements are facts, which of the following statements must also be a fact?
+
+
+I:
+At least one girl has blue eyes.
+
+
+II:
+Two of the children are boys.
+
+
+III:
+The boys have brown eyes.
+
+A. I only
+B. II only
+C. II and III only
+D. None of the statements is a known fact.
+",B,"Since one-half of the four children are girls, two must be boys. It is not clear which children have blue or brown eyes."
+2,"The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.
+
+Fact 1:
+All drink mixes are beverages.
+
+
+Fact 2:
+All beverages are drinkable.
+
+
+Fact 3:
+Some beverages are red.
+
+
+If the first three statements are facts, which of the following statements must also be a fact?
+
+
+I:
+Some drink mixes are red.
+
+
+II:
+All beverages are drink mixes.
+
+
+III:
+All red drink mixes are drinkable.
+
+A. I and II only
+B. II only
+C. I and III only
+D. III only
+E. None of the statements is a known fact.
+",D,No answer description is available.  Let's discuss.
+3,"The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.
+
+Fact 1:
+All chickens are birds.
+
+
+Fact 2:
+Some chickens are hens.
+
+
+Fact 3:
+Female birds lay eggs.
+
+
+If the first three statements are facts, which of the following statements must also be a fact?
+
+
+I:
+All birds lay eggs.
+
+
+II:
+Some Hens are birds.
+
+
+III:
+Some chickens are not hens.
+
+A. I only
+B. II only
+C. II and III only
+D. None of the statements is a known fact.
+",C,"The first statement cannot be true because only female birds lay eggs. Statement II is true because some hens are chickens and all chickens are birds. Statement III is also true because if only some chickens are hens, then some must not be hens."
+4,"The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.
+
+Fact 1:
+All hats have brims.
+
+
+Fact 2:
+There are black hats and blue hats.
+
+
+Fact 3:
+Baseball caps are hats.
+
+
+If the first three statements are facts, which of the following statements must also be a fact?
+
+
+I:
+All caps have brims.
+
+
+II:
+Some baseball caps are blue.
+
+
+III:
+Baseball caps have no brims.
+
+A. I only
+B. II only
+C. II and III only
+D. None of the statements is a known fact.
+",D,"All baseball caps have brims, since baseball caps are  hats (Fact 3) and all hats have brims (Fact 1). This rules out statement III, but it doesn't follow that all caps, a category that may include caps that are not baseball caps, have brims (statement I). Statement II cannot be confirmed, either, since it is possible, given the information, that all baseball caps are black."

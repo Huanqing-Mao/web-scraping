@@ -1,0 +1,51 @@
+,Question,Answer,Solution
+0,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+2 44 4 41 6 38 8
+
+A. 10 12
+B. 35 32
+C. 34 9
+D. 35 10
+E. 10 52
+",D,"Here, there are two alternating patterns, one addition and one subtraction. The first starts with 2 and increases by 2; the second starts with 44 and decreases by 3."
+1,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+17 32 19 29 21 26 23
+
+A. 25 25
+B. 20 22
+C. 23 25
+D. 25 22
+E. 27 32
+",C,"Here, there are two alternating patterns. The first begins with 17 and adds 2; the second begins with 32 and subtracts 3."
+2,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+17 14 14 11 11 8 8
+
+A. 8 5
+B. 5 2
+C. 8 2
+D. 5 5
+E. 5 8
+",D,"In this simple subtraction with repetition series, each number is repeated, then 3 is subtracted to give the next number, which is then repeated, and so on."
+3,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+10 34 12 31 14 28 16
+
+A. 25 18
+B. 30 13
+C. 19 26
+D. 18 20
+E. 25 22
+",A,Two patterns alternate here. The first pattern begins with 10 and adds 2 to each number to arrive at the next; the alternating pattern begins with 34 and subtracts 3 each time.
+4,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+11 14 14 17 17 20 20
+
+A. 23 23
+B. 23 26
+C. 21 24
+D. 24 24
+E. 24 27
+",A,"This is a simple addition series with repetition. It adds 3 to each number to arrive at the next, which is repeated before 3 is added again."

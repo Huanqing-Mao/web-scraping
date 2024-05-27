@@ -103,7 +103,7 @@ for question in questions:
             explanation += f"{p.get_text()}\n"
     else:
         explanation = explanation_ele.get_text().strip()
-    print(explanation)
+    # print(explanation)
     
     
     # final input row
@@ -117,3 +117,4 @@ df = pd.DataFrame(table)
 print(df)
 output_filename = input("Output file name: ")
 df.to_csv(output_filename)
+print("Success.")

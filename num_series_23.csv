@@ -1,0 +1,50 @@
+,Question,Answer,Solution
+0,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+11 16 21 26 31 36 41
+
+A. 47 52
+B. 46 52
+C. 45 49
+D. 46 51
+",D,"In this simple addition series, each number is 5 more than the previous number."
+1,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+3 8 13 18 23 28 33
+
+A. 39 44
+B. 38 44
+C. 38 43
+D. 37 42
+E. 33 38
+",C,"In this simple addition series, each number is 5 greater than the previous number."
+2,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+84 78 72 66 60 54 48
+
+A. 44 34
+B. 42 36
+C. 42 32
+D. 40 34
+E. 38 32
+",B,"In this simple subtraction series, each number is 6 less than the previous number."
+3,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+20 20 17 17 14 14 11
+
+A. 8 8
+B. 11 11
+C. 11 14
+D. 8 9
+E. 11 8
+",E,"This is a simple subtraction with repetition series. It begins with 20, which is repeated, then 3 is subtracted, resulting in 17, which is repeated, and so on."
+4,"Look carefully for the pattern, and then choose which pair of numbers comes next.
+
+61 57 50 61 43 36 61
+
+A. 29 61
+B. 27 20
+C. 31 61
+D. 22 15
+E. 29 22
+",E,"This is an alternating repetition series, in which a random number, 61, is interpolated as every third number into an otherwise simple subtraction series. Starting with the second number, 57, each number (except 61) is 7 less than the previous number."
