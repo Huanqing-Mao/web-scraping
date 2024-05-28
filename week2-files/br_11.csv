@@ -1,0 +1,58 @@
+,Question,Answer,Solution
+0,"
+
+Pointing to a photograph of a boy Suresh said, ""He is the son of the only son of my mother."" How is Suresh related to that boy?
+
+A. Brother
+B. Uncle
+C. Cousin
+D. Father
+",D,"The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh. Hence, Suresh is the father of boy."
+1,"
+
+If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?
+
+A. Q - N + M x P
+B. P + S x N - Q
+C. P - M + N x Q
+D. Q - S % P
+",C,"P - M → P is the brother of M
+M + N → M is the mother of N
+N x Q → N is the sister of Q
+Therefore, P is the maternal uncle of Q.
+"
+2,"
+
+If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?
+
+A. Brother
+B. Sister
+C. Nephew
+D. Cannot be determined
+",D,"If D is Male, the answer is Nephew.
+If D is Female, the answer is Niece. 
+As the sex of D is not known, hence, the relation between D and A cannot be determined.
+Note: Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law. Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law.
+"
+3,"
+
+If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?
+
+A. M - N x C + F
+B. F - C + N x M
+C. N + M - F x C
+D. M x N - C + F
+",D,"M x N → M is the father of N
+N - C → N is the sister of C
+and C + F → C is the brother of F.
+Hence, M is the father of C or C is the son of M.
+"
+4,"
+
+Introducing a boy, a girl said, ""He is the son of the daughter of the father of my uncle."" How is the boy related to the girl?
+
+A. Brother
+B. Nephew
+C. Uncle
+D. Son-in-law
+",A,The father of the boy's uncle → the grandfather of the boy and daughter of the grandfather → sister of father.

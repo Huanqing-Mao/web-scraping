@@ -1,0 +1,14 @@
+,Question,Answer,Solution
+0,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: All cars are cats. All fans are cats.
+Conclusions:
+I. All cars are fans
+II. Some fans are cars.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"Since the middle term 'cats' is not distributed even once in the premises, no definite conclusion follows."

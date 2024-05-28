@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"First, you will be given a list of three ""nonsense"" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.
+
+Here are some words translated from an artificial language.
+godabim means kidney stones
+romzbim means kidney beans
+romzbako means wax beans
+Which word could mean ""wax statue""?
+
+A. godaromz
+B. lazbim
+C. wasibako
+D. romzpeo
+",C,"In this language, the adjective follows the noun. From  godabim and  romzbim, you can determine that bim means kidney. From  romzbim and  romzbako, you can determine that  romz means beans. Therefore, bako  means wax. Because the adjective wax must come after the noun in this language, wasibako is the only choice."
+1,"First, you will be given a list of three ""nonsense"" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.
+
+Here are some words translated from an artificial language.
+granamelke means big tree
+pinimelke means little tree
+melkehoon means tree house
+Which word could mean ""big house""?
+
+A. granahoon
+B. pinishur
+C. pinihoon
+D. melkegrana
+",A,"Grana means big;melkemeans tree; pini means little; hoonmeans house. Therefore, granahoon means big house."
+2,"First, you will be given a list of three ""nonsense"" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.
+
+Here are some words translated from an artificial language.
+daftafoni means advisement
+imodafta means misadvise
+imolokti means misconduct
+Which word could mean ""statement""?
+
+A. kratafoni
+B. kratadafta
+C. loktifoni
+D. daftaimo
+",A,"Dafta means advise; foni is the same as the suffix -ment; imo is the same as the prefix mis-; lokti means conduct. Since the only word in the answer choices that hasn't been defined is  krata, it is reasonable to assume that krata means state. Therefore, kratafoni is the only choice that could mean statement."
+3,"First, you will be given a list of three ""nonsense"" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.
+
+Here are some words translated from an artificial language.
+lelibroon means yellow hat
+plekafroti means flower garden
+frotimix means garden salad
+Which word could mean ""yellow flower""?
+
+A. lelifroti
+B. lelipleka
+C. plekabroon
+D. frotibroon
+",B,"Leli means yellow; broon means hat; pleka means flower; froti means garden; mix means salad. Therefore, lelipleka means yellow flower."
+4,"First, you will be given a list of three ""nonsense"" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.
+
+Here are some words translated from an artificial language.
+myncabel means saddle horse
+conowir means trail ride
+cabelalma means horse blanket
+Which word could mean ""horse ride""?
+
+A. cabelwir
+B. conocabel
+C. almamyn
+D. conoalma
+",A,"Myn means saddle; cabel means horse; cono means trail; and wir means ride. Therefore, cabelwir is the correct answer."

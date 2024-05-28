@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: Some men are educated. Educated persons prefer small families.
+Conclusions:
+I. All small families are educated.
+II. Some men prefer small families.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"Since one premise is particular, the conclusion must be particular and should not contain the middle term. Thus, only II follows."
+1,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: All educated people read newspapers. Rahul does not read newspaper.
+Conclusions:
+I. Rahul is not educated.
+II. Reading newspaper is not essential to be educated.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",A,"Since both the premises are universal and one premise is negative, the conclusion must be universal negative and should not contain the middle term. So, only I follows."
+2,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: All pens are chalks. All chairs are chalks.
+Conclusions:
+I. Some pens are chairs.
+II. Some chalks are pens.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"Since the middle term 'chalks' is not distributed even once in the premises, no definite conclusion follows. However, II is the converse of the first premise and so it holds."
+3,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: Bureaucrats marry only intelligent girls. Tanya is very intelligent.
+Conclusions:
+I. Tanya will marry a bureaucrat.
+II. Tanya will not marry a bureaucrat.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",C,"The data does not mention whether all intelligent girls are married to bureaucrats. So, either I or II may follow."
+4,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: Some engineers are fools. Anand is an engineer.
+Conclusions:
+I. Some fools are engineers.
+II. Anand is a fool.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",A,"Since the middle term 'engineer' is not distributed even once in the premises, no definite conclusion follows. However, I is the converse of the first premise and thus it holds."

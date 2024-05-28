@@ -1,0 +1,94 @@
+,Question,Answer,Solution
+0,"In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  Some blankets are beds. Some pillows are blankets. All beds are pillows.
+Conclusions:
+I. Some blankets are pillows.
+II. Some pillows are beds.
+III. Some beds are blankets.
+
+A. Only either I or II follows
+B. Only I and either II or III follow
+C. Only III and either I or II follow
+D. All I, II and III follow
+E. None of these
+",D,"I is the converse of the second premise, II is the converse of the third premise and III is the converse of the first premise and as such, all three of them follow.
+"
+1,"In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  All dolls are windows. All bottles are windows. All cars are bottles.
+Conclusions:
+I. All cars are windows.
+II. Some cars are dolls.
+III. Some windows are cars.
+
+A. Only I and II follow
+B. Only II and III follow
+C. Only I and III follow
+D. All follow
+E. None of these
+",C,"All cars are bottles. All bottles are windows.
+Since both the premises are universal, the conclusion must be universal and shouldn't contain the middle term, So, it follows that 'All cars are windows'. Thus, I follows.
+Also, III is the converse of this conclusion and so it holds.
+All dolls are windows. All bottles are windows.
+Since the middle term 'windows' is not distributed even once in the premises, no definite conclusion follows.
+All cars are windows. All bottles are windows.
+Again, the middle term 'windows' is not distributed even once in the premises.
+So, no definite conclusion follows.
+"
+2,"In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  All tigers are lions. No cow is lion. Some camels are cows.
+Conclusions:
+I. Some lions are camels.
+II. No camel- is tiger.
+III. Some tigers are cows.
+
+A. None follows
+B. Only I follows
+C. Only II follows
+D. Only III follows
+E. Either I or II follows
+",A,"All tigers are lions. No cow is lion.
+Since both the premises are universal and one premise is negative, the conclusion must be universal negative (E-type) and shouldn't contain the middle term. So, it follows that 'No tiger is cow'.
+Some camels are cows. No cow is lion.
+Since one premise is particular and the other negative, the conclusion must be particular negative (O-type) and should not contain the middle term. So, it follows that 'Some camels are not lions'. Some camels are cows. No tiger is cow.
+Since one premise is particular and the other negative, the conclusion must be particular negative (O-type) and should not contain the middle term. So, it follows that 'Some camels are not tigers'.
+"
+3,"In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  All flowers are toys. Some toys are trees. Some angels are trees.
+Conclusions:
+I. Some angels are toys.
+II. Some trees are flowers.
+III. Some flowers are angels.
+
+A. None follows
+B. Only I follows
+C. Only II follows
+D. Only III follows
+E. Only I and III follow
+",A,"All flowers are toys. Some toys are trees.
+Since the middle term 'toys' is not distributed even once in the premises, no definite conclusion follows.
+Some toys are trees. Some angels are trees.
+Since both the premises are particular, no definite conclusion can be drawn.
+"
+4,"In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  Some rats are cats. Some cats are dogs. No dog is cow.
+Conclusions:
+I. No cow is cat.
+II. No dog is rat.
+III. Some cats are rats.
+
+A. None follows
+B. Only I and II follow
+C. Only II and III follow
+D. Only III follows
+E. All I, II and III follow
+",D,"III is the converse of the first premise and so it holds.
+Some rats are cats. Some cats are dogs.
+Since both the premises are particular, no definite conclusion follows.
+Some cats are dogs. No dog is cow.
+Since one premise is particular and the other negative, the conclusion must be particular negative (O-type) and should not contain the middle term. So, it follows that 'Some cats are not cows'.
+"

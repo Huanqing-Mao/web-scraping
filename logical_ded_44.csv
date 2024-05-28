@@ -1,0 +1,111 @@
+,Question,Answer,Solution
+0,"In each of the following questions, three statements are given followed by four conclusions numbered I, II, III and TV. You have to take the given statements to be true even if they seem to be at variance with commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  Some pearls are stones. Some stones are diamonds. No diamond is a gem.
+Conclusions:
+I. Some gems are pearls.
+II. Some gems are diamonds.
+III. No gem is a diamond.
+IIII. No gem is a pearl.
+
+A. Only I and II follow
+B. Only III and IV follow
+C. Only either I or IV and either II or III follow
+D. Only III and either I or IV follow
+E. None of these
+",D,"III is the converse of the third premise and so it holds.
+Some pearls are stones. Some stones are diamonds.
+Since both the premises are particular, no definite conclusion follows.
+Some stones are diamonds. No diamond is a gem.
+Since one premise is particular and the other negative, the conclusion must be particular negative and should not contain the middle term. So, it follows that 'Some stones are not gems'.
+However, I and IV involve the extreme terms of the three premises and form a complementary pair, Thus, either I or IV follows.
+"
+1,"In each of the following questions, three statements are given followed by four conclusions numbered I, II, III and TV. You have to take the given statements to be true even if they seem to be at variance with commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  All rods are bricks. Some bricks are ropes. All ropes are doors.
+Conclusions:
+I. Some rods are doors.
+II. Some doors are bricks.
+III. Some rods are not doors.
+IIII. All doors are ropes.
+
+A. Only I and II follow
+B. Only I, II and III follow
+C. Only either I or III, and II follow
+D. Only either I or III, and IV follow
+E. None of these
+",E,"All rods are bricks. Some bricks are ropes.
+Since the middle term 'bricks' is not distributed even once in the premises, no definite conclusion follows.
+Some bricks are ropes. All ropes are doors.
+Since one premise is particular, the conclusion must be particular and should not contain the middle term. So, it follows that 'Some bricks are doors'. II is the converse of this conclusion and so it holds.
+All rods are bricks. Some bricks are doors.
+Since the middle term 'bricks' is not distributed even once in the premises, no definite conclusion follows.
+However, I and III involve the extreme terms. But, since they are not contradictory, they do not form a complementary pair.
+Hence, only II follows.
+"
+2,"In each of the following questions, three statements are given followed by four conclusions numbered I, II, III and TV. You have to take the given statements to be true even if they seem to be at variance with commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  All myths are fictions. No fiction is novel. All novels are stories.
+Conclusions:
+I. No myth is novel.
+II. Some fictions are novels.
+III. Some fictions are myths.
+IIII. Some myths are novels.
+
+A. Only either I or II and both III and IV follow
+B. Only either I or IV and II follow
+C. Only either I or IV and both II and III follow
+D. All follow
+E. None of these
+",E,"III is the converse of first premise and so it holds.
+All myths are fictions. No fiction is novel.
+Since both the premises are universal and one premise is negative, the conclusion must be universal negative and should not contain the middle term. So, it follows that 'No myth is novel'. Thus, I follows.
+No fiction is novel. All novels are stories.
+Since the middle term 'novels' is distributed twice in the premises, the conclusion must be particular. Since one premise is negative, the conclusion must be negative.
+So, it follows that 'Some stories are not fictions'.
+Hence, only I and III follow.
+"
+3,"In each of the following questions, three statements are given followed by four conclusions numbered I, II, III and TV. You have to take the given statements to be true even if they seem to be at variance with commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  No paper is pen. No pen is pencil. All erasers are papers.
+Conclusions:
+I. Some papers are erasers.
+II. No pencil is eraser.
+III. No pen is eraser.
+IIII. All papers are erasers.
+
+A. Only I and II follow
+B. Only II and III follow
+C. Only I, II and III follow
+D. All follow
+E. None of these
+",E,"I is the converse of the third premise and so it holds.
+No paper is pen. No pen is pencil.
+Since both the premises are negative, no definite conclusion follows.
+All erasers are papers. No paper is pen.
+Since both the premises are universal and one premise is negative, the conclusion must be universal negative and should not contain the middle term. So, it follows that 'No eraser is pen'. III is the converse of this conclusion and so it holds.
+Hence, only I and III follow.
+"
+4,"In each of the following questions, three statements are given followed by four conclusions numbered I, II, III and TV. You have to take the given statements to be true even if they seem to be at variance with commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.
+
+Statements:  No man is sky. No sky is road. Some men are roads.
+Conclusions:
+I. No road is man.
+II. No road is sky.
+III. Some skies are men.
+IIII. All roads are men.
+
+A. None follows
+B. Only I follows
+C. Only II and III follow
+D. Only I and III follow
+E. None of these
+",E,"II is the converse of the second premise and so it holds.
+No man is sky. No sky is road.
+Since both the premises are negative, no definite conclusion follows.
+No man is sky. Some men are roads.
+Since one premise is particular and the other negative, the conclusion must be particular negative and should not contain the middle term. So, it follows that 'Some roads are not skies'.
+No sky is road. Some men are roads.
+As discussed above, it follows that 'Some men are not skies'.
+Hence, only II follows.
+"

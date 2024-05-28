@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: All young scientists are open-minded. No open-minded men are superstitious.
+Conclusions:
+I. No scientist is superstitious.
+II. No young people are superstitious.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The subject in both the conclusions is vague. The true conclusion is 'No young scientist is superstitious'. Thus, neither I nor II follows,"
+1,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: Some pastries are toffees. All toffees are chocolates.
+Conclusions:
+I. Some chocolates are toffees.
+II. Some toffees are not pastries.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",A,"Since one premise is particular, the conclusion must be particular and should not contain the middle term. Thus, it follows that 'Some pastries are chocolates', I is the converse of the second premise and so it holds. Since both the premises are affirmative, the conclusion cannot be negative. Thus, II does not follow."
+2,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: All boys are honest. Sachin is honest.
+Conclusions:
+I. Sachin is a boy.
+II. All honest persons are boys.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"Both the premises are A type propositions. So, the middle term 'honest' forming the predicate in each is not distributed in either. Since the middle term is not distributed even once, no definite conclusion follows."
+3,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: All pens are roads. All roads are houses.
+Conclusions:
+I. All houses are pens.
+II. Some houses are pens.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"Since both the premises are universal and affirmative, the conclusion must be universal affirmative and should not contain the middle term. So, it follows that 'All pens are houses'. II is the converse of this conclusion and so it holds. Since the term 'houses' is distributed in I without being distributed in any of the premises, so I does not follow."
+4,"In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.
+
+Statements: All artists are smokers. Some smokers are drunkards.
+Conclusions:
+I. All smokers are artists.
+II. Some drunkards are not smokers.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"Since the middle term 'smokers' is not distributed even once in the premises, no definite conclusion follows."
