@@ -1,0 +1,67 @@
+,Question,Answer,Solution
+0,"
+
+First bunch of bananas has (1/4) again as many bananas as a second bunch. If the second bunch has 3 bananas less than the first bunch, then the number of bananas in the first bunch is
+
+
+A. 9
+B. 10
+C. 12
+D. 15
+",D,"
+"
+1,"
+
+Mr. X, a mathematician, defines a number as 'connected with 6 if it is divisible by 6 or if the sum of its digits is 6, or if 6 is one of the digits of the number. Other numbers are all 'not connected with 6'. As per this definition, the number of integers from 1 to 60 (both inclusive) which are not connected with 6 is
+
+
+A. 18
+B. 22
+C. 42
+D. 43
+",D,"Numbers from 1 to 60, which are divisible by 6 are : 6,12,18, 24, 30, 36,42, 48, 54, 60.
+There are 10 such numbers.
+Numbers from 1 to 60, the sum of whose digits is 6 are : 6, 15, 24, 33, 42, 51, 60.
+There are 7 such numbers of which 4 are common to the above ones. So, there are 3such uncommon numbers.
+Numbers from 1 to 60, which have 6 as one of the digits are 6, 16, 26, 36, 46, 56, 60.
+Clearly, there are 4 such uncommon numbers.
+So, numbers 'not connected with 6' = 60 - (10 + 3 + 4) = 43.
+"
+2,"
+
+Find the number which when added to itself 13 times, gives 112.
+
+
+A. 7
+B. 8
+C. 9
+D. 11
+",B,"Let the number be x. Then, x + 13x = 112   14x = 112  x = 8.
+"
+3,"
+
+Aruna cut a cake into two halves and cuts one half into smaller pieces of equal size. Each of the small pieces is twenty grams in weight. If she has seven pieces of the cake in all with her, how heavy was the original cake ?
+
+
+A. 120 grams
+B. 140 grams
+C. 240 grams
+D. 280 grams
+E. None of these
+",C,"The seven pieces consist of 6 smaller equal pieces and one half cake piece.
+Weight of each small piece = 20 g.
+So, total weight of the cake = [2 x (20 x6)]g= 240 g.
+"
+4,"
+
+A total of 324 coins of 20 paise and 25 paise make a sum of Rs. 71. The number of 25-paise coins is
+
+
+A. 120
+B. 124
+C. 144
+D. 200
+",B,"Let the number of 20-paise coins be x. Then, number of 25-paise coins = (324 - x).
+Therefore 0.20 x x + 0.25 (324 - x) = 71    20x + 25 (324 - x) = 7100
+  5x= 1000   x = 200. Hence, number of 25-paise coins = (324 - x) - 124.
+"

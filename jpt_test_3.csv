@@ -1,0 +1,93 @@
+,Question,Answer,Solution
+0,"16) Statements:
+I) Some roads are highways
+II) Some highways are waterways 
+III) Some waterways are airways
+Conclusions:
+I. Some airways are roads
+II. Some waterways are roads
+III. Some airways are highways
+IV. Some roads are airways
+
+A. Only I follows
+B. Either I or II or III follows
+C. Only II follows
+D. All I, II and III follow 
+E. None follows 
+
+
+",E,"A conclusion is true if it is true in any possible Venn diagram. From the above Venn diagram, we can say that none of the above conclusions follows.
+"
+1,"17) Statements:
+I) All boots are slippers
+II) No slipper is a shoe
+III) All shoes are caps 
+Conclusions:
+I. Some boots are caps.
+II. All slippers are boots.
+III. Some caps are slippers.
+IV. All boots are slippers.
+
+A. Only I follows
+B. Either I or II or III follows
+C. Only IV follows
+D. I, II and III follow 
+E. None follows
+
+
+",C,"From the given statements and the above diagram, it is clear that only IV follows.
+"
+2,"18) Statements:
+No window is a cat.
+All the cats are dogs.
+Conclusions:
+I. No window is a dog
+II. No dog is a window
+III. Some dogs are cats
+IV. All the dogs are cats
+
+A. Only II and III follow
+B. Only I and III 
+C. Only III and IV follow
+D. Only III follows
+E. All the four follow
+
+
+",D,"From the given statements, two Venn diagrams can be made and from both the diagrams it is clear that only III follows.
+"
+3,"19) Statements:
+I). All the pens are scales
+II). All the scales are calendars
+Conclusions:
+I. All the calendars are scales
+II. All the pens are calendars
+III. All the scales are pens
+IV. Some calendars are pens
+
+A. Only I and IV follow
+B. Only III and IV follow
+C. Only II and IV follow
+D. Only I and II follow
+E. Only I and III follow
+
+
+",C,"From the given statements, we can make a single Venn diagram that shows only II and IV follow.
+"
+4,"20) Statements:
+I. Some tables are towers
+II. Some towers are rats 
+Conclusions:
+I. Some tables are rats
+II. Some rats are tables
+III. All the rats are towers
+IV. All the towers are tables
+
+A. Only II and IV follow
+B. Only I and III follow
+C. Only IV follows
+D. Only I and IV follow
+E. None of the four
+
+
+",E,"From the given statements, we can make two Venn diagrams that show none of the four options follows.
+"

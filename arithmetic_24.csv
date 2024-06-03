@@ -1,0 +1,70 @@
+,Question,Answer,Solution
+0,"
+
+A player holds 13 cards of four suits, of which seven are black and six are red. There are twice as many diamonds as spades and twice as many hearts as diamonds. How many clubs does he hold ?
+
+
+A. 4
+B. 5
+C. 6
+D. 7
+",C,"Clearly, the black cards are either clubs or spades while the red cards are either diamonds or hearts.
+Let the number of spades be x. Then, number of clubs = (7 - x).
+Number of diamonds = 2 x number of spades = 2x;
+Number of hearts = 2 x number of diamonds = 4x.
+Total number of cards = x + 2x + 4x + 7 - x = 6x + 7.
+Therefore 6x + 7 = 13  6x = 6  x - 1.
+Hence, number of clubs = (7 - x) = 6.
+"
+1,"
+
+The taxi charges in a city comprise of a fixed charge, together with the charge of the distance covered. For a journey of 16 km, the charges paid are Rs. 156 and for a journey of 24 km, the charges paid are Rs. 204. What will a person have to pay for travelling a distance of 30 km?
+
+
+A. Rs. 236
+B. Rs. 240
+C. Rs. 248
+D. Rs. 252
+",B,"Let the fixed charge be Rs. x and variable charge be Rs.y per km. Then,
+x + 16y = 156                       ...(i)   and
+x + 24y = 204                               ...(ii)
+Solving (i) and (ii), we get: x = 60, y = 6.
+Therefore Cost of travelling 30 km = 60 + 30 y = Rs. (60 + 30 x 6) = Rs. 240.
+"
+2,"
+
+If every 2 out of 3 readymade shirts need alterations in the collar, every 3 out of 4 need alterations in the sleeves and and every 4 out of 5 need it in the body, how many alterations will be required for 60 shirts ?
+
+
+A. 88
+B. 123
+C. 133
+D. 143
+",C,"
+"
+3,"
+
+At the end of a business conference the ten people present all shake hands with each other once. How many handshakes will there be altogether ?
+
+
+A. 20
+B. 45
+C. 55
+D. 90
+",B,"Clearly, total number of handshakes = (9+ 8 + 7 + 6 + 5 + 4 + 3 + 2+1) = 45.
+"
+4,"
+
+After distributing the sweets equally among 25 children, 8 sweets remain. Had the number of children been 28, 22 sweets would have been left after equal distribution. What was the total number of sweets ?
+
+
+A. 328
+B. 348
+C. 358
+D. Data inadequate
+",C,"Let the total number of sweets be (25x + 8).
+Then, (25x + 8) - 22 is divisible by 28
+  (25x - 14) is divisible by 28    28x - (3x + 14) is divisible by 28
+  (3x + 14) is divisible by 28   x = 14.
+Therefore Total number of sweets = (25 x 14 + 8) = 358.
+"

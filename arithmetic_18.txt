@@ -1,0 +1,849 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#f1f1f1">
+    <title>Arithmetic Reasoning Section 1 - Verbal Reasoning Questions and Answers Page 8</title>
+    <meta name = "description" content = "Verbal Reasoning questions and answers section on &quot;Arithmetic Reasoning Section 1&quot; for placement interviews and competitive exams: Fully solved Verbal Reasoning problems with detailed answer descriptions and explanations are given for the &quot;Arithmetic Reasoning Section 1&quot; section - Page 8.">                      
+    <link rel="shortcut icon" href="https://www.indiabix.com/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://www.indiabix.com/_files/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.indiabix.com/_files/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://www.indiabix.com/_files/css/main.min.css?ver=1.04">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E20ELFGHR5"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-E20ELFGHR5');</script>
+    <style>.top_ad_unit, .right_ad_unit, .bottom_ad_unit {min-width:250px; width: 100%;} ins.adsbygoogle { background: transparent !important; }</style>
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-0191447310372013?ers=1" nonce="pao_y7pIpyQovEpXG_CiRg"></script><script nonce="pao_y7pIpyQovEpXG_CiRg">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script> 
+  </head>
+  <body class="">  
+  <aside class="sidebar-nav-wrapper">
+    <div class="navbar-logo"><a href="https://www.indiabix.com/" aria-label="IndiaBix Logo"></a></div>
+    <nav class="sidebar-nav">
+        <ul>
+            <li class="nav-item"><a href="https://www.indiabix.com/"><span class="icon"><i class="mdi mdi-home"></i></span><span class="text">Home</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/aptitude/questions-and-answers/"><span class="icon"><i class="mdi mdi-math-integral-box"></i></span><span class="text">Arithmetic Aptitude</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/data-interpretation/questions-and-answers/"><span class="icon"><i class="mdi mdi-chart-box"></i></span><span class="text">Data Interpretation</span></a></li>
+            <!--<li class="divider"></li>-->
+            <li class="nav-item"><a href="https://www.indiabix.com/verbal-ability/questions-and-answers/"><span class="icon"><i class="mdi mdi-text-box-check"></i></span><span class="text">Verbal Ability</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/logical-reasoning/questions-and-answers/"><span class="icon"><i class="mdi mdi-chart-arc"></i></span><span class="text">Logical Reasoning</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/verbal-reasoning/questions-and-answers/"><span class="icon"><i class="mdi mdi-alphabetical-variant"></i></span><span class="text">Verbal Reasoning</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/non-verbal-reasoning/questions-and-answers/"><span class="icon"><i class="mdi mdi-collage"></i></span><span class="text">Nonverbal Reasoning</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/online-test/categories/"><span class="icon"><i class="mdi mdi-clock-outline"></i></span><span class="text">Online Tests</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/current-affairs/questions-and-answers/"><span class="icon"><i class="mdi mdi-earth"></i></span><span class="text">Current Affairs</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/general-knowledge/questions-and-answers/"><span class="icon"><i class="mdi mdi-head-lightbulb mdi-flip-h"></i></span><span class="text">General Knowledge</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/hr-interview/questions-and-answers/"><span class="icon"><i class="mdi mdi-tooltip-account"></i></span><span class="text">HR Interview</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/group-discussion/topics-with-answers/"><span class="icon"><i class="mdi mdi-account-supervisor"></i></span><span class="text">Group Discussion</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/placement-papers/companies/"><span class="icon"><i class="mdi mdi-checkbox-multiple-blank"></i></span><span class="text">Placement Papers</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/technical/interview-questions-and-answers/"><span class="icon"><i class="mdi mdi-comment-account"></i></span><span class="text">Technical Interview</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/mechanical-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-wrench"></i></span><span class="text">Mechanical Engineering</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/civil-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-city"></i></span><span class="text">Civil Engineering</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/electronics-and-communication-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-memory"></i></span><span class="text">ECE</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/electrical-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-power-plug"></i></span><span class="text">EEE</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/computer-science/questions-and-answers/"><span class="icon"><i class="mdi mdi-laptop"></i></span><span class="text">CSE</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/engineering/"><span class="icon"><i class="mdi mdi-more lni-rotate-180"></i></span><span class="text">Read more&#8230;</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/c-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-c"></i></span><span class="text">C Programming</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/cpp-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-cpp"></i></span><span class="text">C++</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/c-sharp-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-csharp"></i></span><span class="text">C#</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/java-programming/questions-and-answers/"><span class="icon"><i class="mdi mdi-language-java"></i></span><span class="text">Java</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/database/questions-and-answers/"><span class="icon"><i class="mdi mdi-database"></i></span><span class="text">Database</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/networking/questions-and-answers/"><span class="icon"><i class="mdi mdi-lan"></i></span><span class="text">Networking</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/microbiology/questions-and-answers/"><span class="icon"><i class="mdi mdi-dna"></i></span><span class="text">Microbiology</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/biochemistry/questions-and-answers/"><span class="icon"><i class="mdi mdi-checkbox-multiple-blank-circle"></i></span><span class="text">Biochemistry</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/biotechnology/questions-and-answers/"><span class="icon"><i class="mdi mdi-circle-multiple-outline"></i></span><span class="text">Biotechnology</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/biochemical-engineering/questions-and-answers/"><span class="icon"><i class="mdi mdi-chart-bubble"></i></span><span class="text">Biochemical </span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/puzzles/number-puzzles/"><span class="icon"><i class="mdi mdi-checkerboard"></i></span><span class="text">Puzzles Quiz</span></a></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/puzzles/sudoku/"><span class="icon"><i class="mdi mdi-grid"></i></span><span class="text">Sudoku</span></a></li>
+            <li class="divider"></li>
+            <li class="nav-item"><a href="https://www.indiabix.com/contact-us"><span class="icon"><i class="mdi mdi-card-account-mail-outline"></i></span><span class="text">Contact Us</span></a></li>
+        </ul>
+    </nav>
+  </aside>
+  <div class="overlay"></div>
+  <main class="main-wrapper">
+    <header class="header">
+        <div class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-lg-5 col-md-5 col-6">
+                    <div class="header-left d-flex align-items-center">
+                        <div class="menu-toggle-btn">
+                            <button aria-label="Menu Toggle" id="menu-toggle" class="main-btn">
+                                <i class="mdi mdi-menu"></i>
+                            </button>
+                        </div>
+                        <div class="head-name">
+                            <a href="https://www.indiabix.com/">IndiaBIX</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-7 col-6">
+                    <div class="header-right d-flex align-items-center">
+                        <div class="header-search d-none d-sm-block" id="search-form-box">
+                            <form method="get" id="search-form" name="search form" action="https://www.google.co.in/search" target="_blank">
+                                <input type="hidden" name="sitesearch" value="www.indiabix.com">
+                                <button aria-label="Search Submit" ><i class="mdi mdi-magnify mdi-24px"></i></button>
+                                <input name="as_q" id="txtSearchKey" class="search-box" type="text" placeholder="Search">
+                            </form>
+                        </div>
+                        <button aria-label="Search" id="btnSearch" class="header-button d-block d-sm-none">
+                        <i class="mdi mdi-magnify "></i>
+                        </button>       
+                        <button aria-label="Page Share" id="btnShare" class="header-button"><i class="mdi mdi-share"></i></button>
+                        <button aria-label="Theme Toggle" id="btnTheme" class="header-button"><i class="mdi mdi-theme-light-dark mdi-rotate-315"></i></button>
+                        <a href="https://www.indiabix.com/user/login/" id="btnLogin" class="header-button" aria-label="Login to stay connected with IndiaBIX!"><i class="mdi mdi-login"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+      <section class="section">
+        <div class="container-fluid">
+        
+            <div class="row no-gutters">
+                <div class="title-wrapper">
+                    <div class="title d-flex flex-row">
+                        <span class="mdi mdi-alphabetical-variant ib-text-title"></span>
+                        <div><h1 class="flex-wrap w-100 add-color">Verbal Reasoning - Arithmetic Reasoning</h1></div>
+                    </div>
+                    
+                    <div class="card-style py-1">
+                        <div class="breadcrumb-wrapper ">
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb my-1">
+                                        <li class="breadcrumb-item"><a href="https://www.indiabix.com/" >Home</a></li><li class="breadcrumb-item">
+                                        <a href="https://www.indiabix.com/verbal-reasoning/questions-and-answers/">Verbal Reasoning</a>
+                                    </li><li class="breadcrumb-item">
+                                        <a href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/">Arithmetic Reasoning</a>
+                                    </li><li class="breadcrumb-item">
+                                        <a href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/">Section 1</a>
+                                    </li><li  class="breadcrumb-item active" aria-current="page">
+                                        Page 8 of 10
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>                
+                            
+            <div class="row no-gutters">
+                <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
+                    <div class="ques-wrapper">
+                        <div class="d-flex flex-row justify-content-center align-items-center mb-3 w-100"><!-- ResTop -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0191447310372013" crossorigin="anonymous"></script>
+<ins class="adsbygoogle top_ad_unit" style="display:block; height:90px;" data-ad-client="ca-pub-0191447310372013" data-ad-slot="9462193524" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+                        <div class="card-style">
+                            <div class="exercise mb-3">
+                                    <div class="h5 w-100 mb-3 p-0"><span>Exercise :</span> Arithmetic Reasoning - Section 1</div>                   
+                                    <div class="scrolly-250 scrolly-bg1">
+                                        <ul>
+                                            <li class="current d-flex flex-row">Arithmetic Reasoning - Section 1</li><li class="d-flex flex-row"><a href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/072001">Arithmetic Reasoning - Section 2</a></li>
+                                        </ul>
+                                    </div>   
+                                </div>
+                            <div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno36" rowspan="2">36.</div><div class="bix-td-qtxt table-responsive w-100">Three friends had dinner at a restaurant. When the bill was received, Amita paid 2/3 as much as Veena paid and Veena paid 1/2 as much as Tanya paid. What faction of the bill did Veena pay ?</div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_1398">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_1398"><span
+                                                            id="lnkOptionLink_A_1398" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_1398">
+                                                        <div class="flex-wrap">1/3</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_1398"><span
+                                                            id="lnkOptionLink_B_1398" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_1398">
+                                                        <div class="flex-wrap">3/11</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_1398"><span
+                                                            id="lnkOptionLink_C_1398" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_1398">
+                                                        <div class="flex-wrap">12/13</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_1398"><span
+                                                            id="lnkOptionLink_D_1398" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_1398">
+                                                        <div class="flex-wrap">5/8</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_1398" value="B">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_1398">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-b-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    <p><img class="vr-image-opacity" src="/_files/images/verbal-reasoning/arithmetic-reasoning/26.png"></p>
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_1398">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_1398">
+                                                <textarea class="bix-report-txt" data-qid="1398"
+                                                          name="txtBixReport_1398" id="txtBixReport_1398" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_1398" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_1398"
+                                                           data-sid = "4" data-qid="1398" data-qno="36"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_1398">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_1398"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_1398"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/discussion-1398#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_1398"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_1398"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_1398"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_1398"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno37" rowspan="2">37.</div><div class="bix-td-qtxt table-responsive w-100">In a class, 20% of the members own only two cars each, 40% of the remaining own three cars each and the remaining members own only one car each. Which of the following statements is definitely true from the given statements ?</div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_1408">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_1408"><span
+                                                            id="lnkOptionLink_A_1408" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_1408">
+                                                        <div class="flex-wrap">Only 20% of the total members own three cars each.</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_1408"><span
+                                                            id="lnkOptionLink_B_1408" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_1408">
+                                                        <div class="flex-wrap">48% of the total members own only one car each.</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_1408"><span
+                                                            id="lnkOptionLink_C_1408" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_1408">
+                                                        <div class="flex-wrap">60% of the total members own at least two cars each.</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_1408"><span
+                                                            id="lnkOptionLink_D_1408" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_1408">
+                                                        <div class="flex-wrap">80% of the total members own at least one car.</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_E_1408"><span
+                                                            id="lnkOptionLink_E_1408" class="mdi mdi-alpha-e-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_E_1408">
+                                                        <div class="flex-wrap">None of these</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_1408" value="B">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_1408">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-b-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    <p>Let total number of members be 100,</p><p>Then, number of members owning only 2 cars = 20.</p><p>Number of members owning 3 cars = 40% of 80 = 32.</p><p>Number of members owning only 1 car = 100 - (20 + 32) = 48.</p><p>Thus, 48% of the total members own one car each.</p>
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_1408">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_1408">
+                                                <textarea class="bix-report-txt" data-qid="1408"
+                                                          name="txtBixReport_1408" id="txtBixReport_1408" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_1408" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_1408"
+                                                           data-sid = "4" data-qid="1408" data-qno="37"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_1408">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_1408"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_1408"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/discussion-1408#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_1408"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_1408"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_1408"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_1408"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno38" rowspan="2">38.</div><div class="bix-td-qtxt table-responsive w-100">When Rahul was born, his father was 32 years older than his brother and his mother was 25 years older than his sister. If Rahul's brother is 6 years older than him and his mother is 3 years younger than his father, how old was Rahul's sister when he was born ?</div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_1451">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_1451"><span
+                                                            id="lnkOptionLink_A_1451" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_1451">
+                                                        <div class="flex-wrap">7 years</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_1451"><span
+                                                            id="lnkOptionLink_B_1451" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_1451">
+                                                        <div class="flex-wrap">10 years</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_1451"><span
+                                                            id="lnkOptionLink_C_1451" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_1451">
+                                                        <div class="flex-wrap">14 years</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_1451"><span
+                                                            id="lnkOptionLink_D_1451" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_1451">
+                                                        <div class="flex-wrap">19 years</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_1451" value="B">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_1451">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-b-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    <p>When Rahul was born, his brother's age = 6 years; his father's age = (6 + 32) years = 38 years, his mother's age = (38 - 3) years = 35 years; his sister's age = (35 - 25) years = 10 years.</p>
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_1451">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_1451">
+                                                <textarea class="bix-report-txt" data-qid="1451"
+                                                          name="txtBixReport_1451" id="txtBixReport_1451" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_1451" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_1451"
+                                                           data-sid = "4" data-qid="1451" data-qno="38"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_1451">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_1451"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_1451"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/discussion-1451#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_1451"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_1451"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_1451"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_1451"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno39" rowspan="2">39.</div><div class="bix-td-qtxt table-responsive w-100">A certain number of horses and an equal number of men are going somewhere. Half of the owners are on their horses' back while the remaining ones are walking along leading their horses. If the number of legs walking on the ground is 70, how many horses are there ?</div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_1438">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_1438"><span
+                                                            id="lnkOptionLink_A_1438" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_1438">
+                                                        <div class="flex-wrap">10</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_1438"><span
+                                                            id="lnkOptionLink_B_1438" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_1438">
+                                                        <div class="flex-wrap">12</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_1438"><span
+                                                            id="lnkOptionLink_C_1438" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_1438">
+                                                        <div class="flex-wrap">14</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_1438"><span
+                                                            id="lnkOptionLink_D_1438" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_1438">
+                                                        <div class="flex-wrap">16</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_1438" value="C">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_1438">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-c-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    <p>Let number of horses = number of men = x.</p><p>Then, number of legs = 4x + 2 x (x/2) = 5x.</p><p>So, 5X = 70   or   x = 14.</p>
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_1438">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_1438">
+                                                <textarea class="bix-report-txt" data-qid="1438"
+                                                          name="txtBixReport_1438" id="txtBixReport_1438" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_1438" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_1438"
+                                                           data-sid = "4" data-qid="1438" data-qno="39"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_1438">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_1438"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_1438"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/discussion-1438#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_1438"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_1438"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_1438"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_1438"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div><hr><div class="bix-div-container">
+                                    <div class="d-flex flex-row align-items-top justify-content-start">
+                                           <div class="bix-td-qno" id="qno40" rowspan="2">40.</div><div class="bix-td-qtxt table-responsive w-100">Ravi's brother is 3 years senior to him. His father was 28 years of age when his sister was born while his mother was 26 years of age when he was born. If his sister was 4 years of age when his brother was born, what were the ages of Ravi's father and mother respectively when his brother was born ?</div> 
+                                    </div> 
+                                    <div class="bix-tbl-options" id="tblOption_1450">
+                                               <div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_A_1450"><span
+                                                            id="lnkOptionLink_A_1450" class="mdi mdi-alpha-a-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_A_1450">
+                                                        <div class="flex-wrap">32 years, 23 years</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_B_1450"><span
+                                                            id="lnkOptionLink_B_1450" class="mdi mdi-alpha-b-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_B_1450">
+                                                        <div class="flex-wrap">32 years, 29 years</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_C_1450"><span
+                                                            id="lnkOptionLink_C_1450" class="mdi mdi-alpha-c-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_C_1450">
+                                                        <div class="flex-wrap">35 years, 29 years</div>
+                                                    </div>
+                                            </div><div class="d-flex flex-row align-items-top bix-opt-row"> 
+                                                    <div class="bix-td-option" id="tdOptionNo_D_1450"><span
+                                                            id="lnkOptionLink_D_1450" class="mdi mdi-alpha-d-circle-outline"></span></div>
+                                                    <div class="bix-td-option-val d-flex flex-row align-items-center" id="tdOptionDt_D_1450">
+                                                        <div class="flex-wrap">35 years, 33 years</div>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                     <div class="bix-td-miscell">
+                                     
+                                            <input type="hidden" class="jq-hdnakq" id="hdnAnswer_1450" value="A">
+                                            
+                                            <div class="bix-div-answer collapse " id="divAnswer_1450">
+                                                                                                <div class="bix-ans-option d-flex flex-row align-items-center">
+                                                    <div class="pt-1"><span class="mx-green mx-bold">Answer:</span> Option</div>
+                                                    <div class="ps-1 pt-1"><span class="mdi mdi-alpha-a-circle-outline"> </span></div>
+                                                </div>
+                                                <div class="mx-green mx-bold explain-lablel">Explanation:</div>
+                                                <div class="bix-ans-description table-responsive">
+                                                    <p>When Ravi's brother was born, let Ravi's father's age = x years and mother's age = y years.</p><p>Then, sister's age = (x - 28) years. So, x - 28 = 4   or   x = 32.</p><p>Ravi's age = (y - 26) years. Age of Ravi's brother = (y - 26 + 3) years = (y - 23) years.</p><p>Now, when Ravi's brother was born, his age = 0 i.e. y - 23 = 0   or   y = 23.</p>
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="bix-div-workspace collapse"  id="divWorkspace_1450">
+                                                <textarea rows="10" placeholder="Workspace"></textarea>
+                                            </div>
+
+                                            <div class="bix-div-report collapse text-end" id="divReport_1450">
+                                                <textarea class="bix-report-txt" data-qid="1450"
+                                                          name="txtBixReport_1450" id="txtBixReport_1450" rows="8" maxlength="1000" placeholder="The report text length is at least 10 characters.
+
+
+
+
+Name :
+Email  : "></textarea>
+                                                <div class="d-flex flex-row flex-wrap align-items-center justify-content-center">
+                                                    <div id="ques_resp_1450" class="ms-auto resp-div d-flex align-items-center"> </div>
+                                                    <input class="ms-3 bix-btn bix-btn-light bix-report-btn" id="btnBixReport_1450"
+                                                           data-sid = "4" data-qid="1450" data-qno="40"
+                                                           type="button" value="Send Report" disabled>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="bix-div-toolbar d-flex align-items-center" id="divToolBar_1450">
+                                                <a class="answer collapsed mdi mdi-book-open-variant "
+                                                   data-bs-toggle="collapse"
+                                                   href="#divAnswer_1450"
+                                                   aria-expanded="false"
+                                                   aria-controls="divAnswer_1450"
+                                                   aria-label="View Answer"
+                                                ></a>
+                                                <a class="discuss collapsed mdi mdi-comment-text-outline  ms-3"
+                                                   href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/discussion-1450#comments"
+                                                   aria-label="Discuss about this question and answer"
+                                                ></a>
+                                                <a class="workspace collapsed mdi mdi-card-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divWorkspace_1450"
+                                                   aria-expanded="false"
+                                                   aria-controls="divWorkspace_1450"
+                                                   aria-label="Workspace"
+                                                ></a>
+                                                <a class="report collapsed mdi mdi-alert-outline  ms-3"
+                                                   data-bs-toggle="collapse"
+                                                   href="#divReport_1450"
+                                                   aria-expanded="false"
+                                                   aria-controls="divReport_1450"
+                                                   aria-label="Send Report"
+                                                ></a>
+                                                
+                                                
+                                            </div>
+                                     </div>
+                            </div>
+                            <hr><div class="d-flex flex-row justify-content-center align-items-center"><!-- ResBottom -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0191447310372013" crossorigin="anonymous"></script>
+<ins class="adsbygoogle bottom_ad_unit" style="display:block" data-ad-client="ca-pub-0191447310372013" data-ad-slot="4948233444" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+                            <hr><nav aria-label="Page navigation">
+          <ul class="pagination justify-content-center flex-wrap">
+          <li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/071007"><span class='d-none d-sm-block'>Prev</span><i class='mdi mdi-chevron-double-left d-sm-none'></i></a></li><li class="page-item"><a class="page-link" href="#goto" aria-label="Jump to Page" data-bs-target="#GotoPageModal" data-bs-toggle="modal">
+                        <i class="mdi mdi-debug-step-over"></i></a></li><!-- Modal -->
+<div class="modal fade" id="GotoPageModal" tabindex="-1" role="dialog" aria-labelledby="bixModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+        
+        <div class="modal-body"><form id="goto_modal_form" method="POST" target="_self">
+    <div class="col-12 input-style-1 goto-page-div mt-4 ">
+        <label>Enter a page number between 1 and 10:</label>
+        <input class="goto-page-input" type="text" inputmode="numeric" min="1" max="10" id="inp_pg_no" name="inp_pg_no" placeholder="" value="" autocomplete="off">
+        <button type="submit" class="bix-btn bix-btn-dark goto-page-btn ms-4" id="goto_page_submit" disabled="disabled">Go</button>
+        <input type="hidden" id="inp_pg_no_max" name="inp_pg_no_max" value="10">
+        <input type="hidden" id="inp_pg_link_pad" name="inp_pg_link_pad" value="NeedPad">
+        <input type="hidden" id="inp_pg_no_url" name="inp_pg_no_url" value="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/071[[[p-no]]]">
+        <input type="hidden" id="home_page_url" name="home_page_url" value="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/">
+        <input type="hidden" id="is_default_dir" name="is_default_dir" value="1">
+        <input type="hidden" id="goto_page_url" name="goto_page_url" value="">
+    </div>
+    <div id="js_resp_goto_page" class="row resp-goto-page text-center justify-content-center"><br></div>
+</form></div>
+        
+    </div>
+  </div>
+</div><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/">1</a></li>            <li class="page-item disabled">
+                  <a aria-label="Page Link" class="page-link" href="#" tabindex="-1" aria-disabled="true">...</a>
+                </li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/071007">7</a></li>    <li class="page-item active" aria-current="page">
+                  <span class="page-link">8</span>
+                </li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/071009">9</a></li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/071010">10</a></li><li class="page-item"><a aria-label="Page link" class="page-link" href="https://www.indiabix.com/verbal-reasoning/arithmetic-reasoning/071009"><span class='d-none d-sm-block'>Next</span><i class='mdi mdi-chevron-double-right d-sm-none'></i></a></li>
+           </ul>
+        </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                        
+
+                    <div class="card-style top-margin-xs">
+                        <div class="quick-link text-center">
+                            
+<div id="carouselRightTop" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item text-start active">
+    <a class="carousel-link" href="https://www.indiabix.com/current-affairs/questions-and-answers/">
+       <div class="d-flex flex-row align-items-stretch">
+            <div class="carousel-icon">
+                <i class="mdi mdi-alarm-check mdi-48px me-2"></i>
+            </div>
+            <div class="d-flex flex-column align-items-start justify-content-center">
+            <h5>Current Affairs</h5>
+            <div class="text-small">Check out the latest current affairs questions and answers.</div>
+            </div>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-item text-start">
+      <a class="carousel-link" href="https://www.indiabix.com/interview/">
+      <div class="d-flex flex-row align-items-stretch">
+            <div class="carousel-icon">
+                <i class="mdi mdi-comment-text-multiple-outline mdi-48px mdi-flip-h me-2"></i>
+            </div>
+            <div class="d-flex flex-column align-items-start justify-content-center">
+            <h5>Interview Questions</h5>
+            <div class="text-small">Check out the latest interview questions and answers.</div>
+            </div>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-item text-start">
+      <a class="carousel-link" href="https://www.indiabix.com/group-discussion/">
+       <div class="d-flex flex-row align-items-stretch">
+            <div class="carousel-icon">
+                <i class="mdi mdi-account-box-multiple-outline mdi-48px me-2"></i>
+            </div>
+            <div class="d-flex flex-column align-items-start justify-content-center">
+                <h5>Group Discussions</h5>
+                <div class="text-small">Check out the latest group discussions.</div>
+            </div>
+        </div>
+      
+      </a>
+    </div>
+  </div>
+</div>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-row justify-content-center align-items-center d-none d-md-flex mb-3 w-100"><!-- ResRightSquare -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0191447310372013" crossorigin="anonymous"></script>
+<ins class="adsbygoogle right_ad_unit" style="display:block" data-ad-client="ca-pub-0191447310372013" data-ad-slot="1826944762" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+                    <div class="card-style top-margin-extra-xs">
+                        <div class="quick-link">
+                            <div class="card-title">Quick links</div>
+                            <div class="row">
+                                <div class="col-xxl-6 col-12">
+                                    <div class="h5">Quantitative Aptitude</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/aptitude/questions-and-answers/"
+                                               title="Arithmetic Aptitude">Arithmetic</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/data-interpretation/questions-and-answers/">Data
+                                            Interpretation</a></li>
+                                    </ul>
+
+                                    <div class="h5">Verbal (English)</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/verbal-ability/questions-and-answers/">Verbal Ability</a></li>
+                                        <li><a href="https://www.indiabix.com/online-test/verbal-ability-test/">Verbal Test</a></li>
+                                    </ul>
+
+                                    <div class="h5">Reasoning</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/logical-reasoning/questions-and-answers/"
+                                               title="Logical Reasoning">Logical</a></li>
+                                        <li><a href="https://www.indiabix.com/verbal-reasoning/questions-and-answers/"
+                                               title="Verbal Reasoning">Verbal</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/non-verbal-reasoning/questions-and-answers/"
+                                               title="Nonverbal Reasoning">Nonverbal</a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                                <div class="col-xxl-6 col-12">
+                                    <div class="h5">Programming</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/c-programming/questions-and-answers/">C Programming</a></li>
+                                        <li><a href="https://www.indiabix.com/cpp-programming/questions-and-answers/" title="C++ Programming">C++</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/c-sharp-programming/questions-and-answers/"
+                                               title="C# Programming">C#</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/java-programming/questions-and-answers/" title="Java Programming">Java</a>
+                                        </li>
+                                    </ul>
+
+                                    <div class="h5">Interview</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/group-discussion/topics-with-answers/"
+                                               title="Group Discussion Topics">GD</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/hr-interview/questions-and-answers/"
+                                               title="HR Interview Questions">HR</a>
+                                        </li>
+                                        <li><a href="https://www.indiabix.com/technical/interview-questions-and-answers/"
+                                               title="Technical Interview Questions">Technical Interview</a></li>
+                                    </ul>
+
+                                    <div class="h5"> Placement Papers</div>
+                                    <ul>
+                                        <li><a href="https://www.indiabix.com/placement-papers/companies/">Placement Papers</a></li>
+                                        <li><a href="https://www.indiabix.com/placement-papers/submit/" title="Submit Placement Papers">Submit
+                                            Paper</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                    
+                </div>
+            </div>
+        </div>
+      </section>
+        <footer class="footer">
+        <div class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-md-6 order-last order-md-first">
+                    <div class="copyright text-center text-md-start">
+                        <p class="text-sm">
+                            &copy; IndiaBIX&trade; Technologies
+                        </p>
+                    </div>
+                </div>
+                <!-- end col-->
+                <div class="col-md-6">
+                    <div class="terms d-flex justify-content-center justify-content-md-end">
+                        <a class="text-link text-sm" href="https://www.indiabix.com/contact-us/">Contact Us</a>
+                        <a class="text-link text-sm ml-15" href="https://www.indiabix.com/copyright/">Copyright</a>
+                        <a class="text-link text-sm ml-15" href="https://www.indiabix.com/privacy-policy/">Privacy Policy</a>
+                    </div>
+                </div>
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </footer>
+    </main>
+    
+    <script src="https://www.indiabix.com/_files/js/util/bootstrap.bundle.min.js"></script>
+    <script src="https://www.indiabix.com/_files/js/main.min.js?ver=1.0"></script>
+    
+  </body>
+</html>
