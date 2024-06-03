@@ -1,0 +1,84 @@
+,Question,Answer,Solution
+0,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How many children are there in the row of children facing North ?
+Statements:
+I. Vishakha who is fifth from the left end is eighth to the left of Ashish who is twelfth from the right end.
+II. Rohit is fifth to the left of Nisha who is seventh from the right end and eighteenth from the left end.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",C,"Since 8th to the left of 12th from the right is 20th from the right, so from I, we know that Vishakha is 5th from left and 20th from right i.e. there are 4 children to the left and 19 to the right of Vishakha. So, there are (4 + 1 + 19) i.e. 24 children in the row.
+From II, Nisha is 7th from right and 18th from left end of the row.
+So, there are (6 + 1 + 17) = 24 children in the row.
+"
+1,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How many doctors are practising in this town ?
+Statements:
+I. There is one doctor per seven hundred residents.
+II. There are 16 wards with each ward having as many doctors as the number of wards.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",B,"From I, total number of doctors in town = (1/700 x N) , where N = total number of residents in town. But, the value of N is not known.
+From II, total number of doctors in town
+= (Number of wards in town) x (Number of doctors in each ward)
+= 16 x 16 = 256.
+"
+2,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  On which day of the week was birthday of Sahil ?
+Statements:
+I. Sahil celebrated his birthday the very next day on which Arun celebrated his birthday.
+II. The sister of Sahil was born on the third day of the week and two days after Sahil was born.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",B,"I does not mention the day of the week on the birthday of either Arun or Sahil.
+According to II, Sahil's sister was born on Wednesday and Sahil was born two days before Wednesday i.e. on Monday.
+"
+3,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How many pages of book X did Robert read on Sunday ?
+Statements:
+I. The book has 300 pages out of which two-thirds were read by him before Sunday.
+II. Robert read the last 40 pages of the book on the morning of Monday.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",E,"From I and II, we find that Robert read (300 x 2/3) i.e. 200 pages before Sunday and the last 40 pages on Monday.
+This means that he read [300 - (200 + 40)] i.e. 60 pages on Sunday.
+"
+4,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How is Tanya related to the man in the photograph ?
+Statements:
+I. Man in the photograph is the only son of Tanya's grandfather.
+II. The man in the photograph has no brothers or sisters and his father is Tanya's grandfather.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",B,"From I, we conclude that the man is the only son of Tanya's grandfather i.e. he is Tanya's father or Tanya is the man's daughter.
+From II, we conclude that the man's father is Tanya's grandfather. Since the man has no brothers or sisters, so he is Tanya's father or Tanya is the man's daughter.
+"

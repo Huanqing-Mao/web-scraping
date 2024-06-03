@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The best evidence of India's glorious past is the growing popularity of Ayurvedic medicines in the West.
+Conclusions:
+I. Ayurvedic medicines are not popular in India.
+II. Allopathic medicines are more popular in India.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The popularity of Ayurvedic or allopathic medicines in India is not being talked about in the statement. So, neither I nor II follows."
+1,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Death keeps no calendar.
+Conclusions:
+I. Man must die one day.
+II. Death can come at any time.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,Both I and II directly follow from the statement.
+2,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Wind is an inexhaustible source of energy and an aerogenerator can convert it into electricity. Though not much has been done in this field, the survey shows that there is vast potential for developing wind as alternative source of energy.
+Conclusions:
+I. Energy by wind is comparatively newly emerging field.
+II. The energy crisis can be dealt by exploring more in the field of aero-generation.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"The phrase 'not much has been done in this field' indicates that wind energy is a comparatively newly emerging field. So, I follows. The expression 'there is vast potential for developing wind as alternative source of energy' proves II to be true."
+3,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The average number of persons per household is 5 in urban areas whereas it is 7 in rural areas. The national average is 6.
+Conclusions:
+I. The population per unit area in the rural areas is higher than in the urban areas.
+II. More persons live in the same household in the rural areas as compared to those in the urban areas.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"The population per household and not the population per unit area is being talked about in the statement. So, only II follows while I does not."
+4,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The best way to escape from a problem is to solve it.
+Conclusions:
+I. Your life will be dull if you don't face a problem.
+II. To escape from problems, you should always have some solutions with you.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"Clearly, both I and II do not follow from the given statement."

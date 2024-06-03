@@ -1,0 +1,51 @@
+,Question,Answer,Solution
+0,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How many girls are taller than Shravan in his class ?
+Statements:
+I. When students of Shravan's class are ranked in descending order of their heights, Shravan's rank is 17th from the top among all the students and 12th among boys.
+II. Shravan's rank from the bottom on the basis of height among boys is 18th and among all students, 29th.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",A,"From I, we conclude that there are 16 students and 11 boys taller than Shravan.
+This implies that there are 5 girls taller than Shravan.
+In II, Shravan's rank from the bottom is mentioned and to ascertain the number of girls taller than him, we need to know his rank from the top for which the number of students in the class is required, which is not given.
+"
+1,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How is R related to M ?
+Statements:
+I. M's brother is husband of P.
+II. P is mother of R's sister.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",D,"From II, we conclude that P is R's mother.
+From I, we conclude that M is the brother or sister of P's husband, who is also R's father. Thus, R is either nephew or niece of M.
+"
+2,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How is M related to N ?
+Statements:
+I. B is the daughter of M and sister of Q.
+II. N is the son of K who is B's grandfather.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",D,"From II, we know that N is K's son and K is B's grandfather. Thus, N is the son of B's grandfather i.e. N is either father or uncle of B.
+From I, B is the daughter of M. So, M is either father or mother of B.
+Clearly, the correct relationship between M and N cannot be deduced.
+"

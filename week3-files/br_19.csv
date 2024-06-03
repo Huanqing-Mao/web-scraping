@@ -1,0 +1,59 @@
+,Question,Answer,Solution
+0,"The questions which are asked in this section depend upon Relation. 
+
+If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?
+
+A. Daughter-in-law
+B. Sister-in-law
+C. Aunt
+D. None of these
+",D,"P % Q -> P is the mother of Q
+Q + R -> Q is the father of R
+R - T -> R is the brother of T
+Hence, -> Q is the father of T
+T x K -> T is the daughter of K
+Hence, -> Q is the husband of K.
+Therefore, P is the mother-in-law of K.
+"
+1,"The questions which are asked in this section depend upon Relation. 
+
+If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?
+
+A. K + Y + Z - I
+B. K + Y x I - Z
+C. Z - I x Y + K
+D. K x Y + I - Z
+",B,"K + Y -> K is the brother of Y
+Y x I -> Y is the father of I
+Hence, -> K is the uncle of I
+and I - Z -> I is the sister of Z
+Hence, -> I is the niece of K.
+"
+2,"The questions which are asked in this section depend upon Relation. 
+
+Pointing towards a girl, Abhisek says, ""This girl is the daughter of only a child of my father."" What is the relation of Abhisek's wife to that girl?
+
+A. Daughter
+B. Mother
+C. Aunt
+D. Sister
+",B,"Only the child of my father means 'Abhisek' himself. This means the girl is the daughter od Abhisek. Hence, Abhisek's wife is the mother of the girl."
+3,"The questions which are asked in this section depend upon Relation. 
+
+If A $ B means B is the father of A; A # B means B is the mother of A; A * B means B is the sister of A and A @ B means B is the husband of A, which of the following indicates that N is the grandmother of P?
+
+A. P * Q # M $ N
+B. P @ Q $ M # N
+C. P # Q $ N * M
+D. None of these
+",D,No answer description is available.  Let's discuss.
+4,"The questions which are asked in this section depend upon Relation. 
+
+Anupam said to a lady sitting in a car, ""The only daughter of the brother of my wife is the sister-in-law of the brother of your sister."" How the husband of the lady is related to Anupam?
+
+A. Maternal uncle
+B. Uncle
+C. Father
+D. Son-in-law
+",D,"Anupam's son-in-law is the brother of the lady who was sitting in the car. Hence, the husband is also the son-in-law of Anupam.
+"

@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Irregularity is a cause for failure in exams. Some regular students fail in the examinations.
+Conclusions:
+I. All failed students are regular.
+II. All successful students are not regular.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The given statement clearly implies that all irregular and some regular students fail in the examinations. This, in turn, means that all successful students are regular but not all regular students are successful. So, neither I nor II follows."
+1,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: In case of outstanding candidates, the condition of previous experience of social work may be waived by the admission committee for M.A. (Social work).
+Conclusions:
+I. Some of the students for M.A. (Social work) will have previous experience of social work.
+II. Some of the students for M.A. (Social work) will not have previous experience of social work.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"According to the statement, previous experience is an essential condition for candidates but in case of outstanding candidates, this condition shall be waived. This means that some candidates will have previous experience while some will not. So, both I and II follow."
+2,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Today out of the world population of several thousand million, the majority of men have to live under governments which refuse them personal liberty and the right to dissent.
+Conclusions:
+I. People are indifferent to personal liberty and the right to dissent. 
+II. People desire personal liberty and the right to dissent.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"It is mentioned in the statement that most people are forced to live under Governments which refuse them personal liberty and the right to dissent. This means that they are not indifferent to these rights but have a desire for them. So, only II follows."
+3,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Double your money in five months - An advertisement.
+Conclusions:
+I. The assurance is not genuine.
+II. People want their money to grow.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"The authenticity of the given statement cannot be deduced. So, I does not follow. Since, the advertisement talks of quick returns, it implies that people want their money to grow, as an advertisement always imbibes comments and features that attract the attention of the people immediately. So, II follows."
+4,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The XYZ Medical College has started a cell which will conduct counselling workshops in the field of stress management to patients and general public.
+Conclusions:
+I. The hospital has needed resources to start such activity.
+II. Patients and general public feel a need to have such cell in the hospital.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"Since the hospital has started the activity, it must have been well-equipped for the same. So, I follows. Also, any new activity is started keeping in mind the need for it. So, II also follows."

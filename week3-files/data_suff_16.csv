@@ -1,0 +1,82 @@
+,Question,Answer,Solution
+0,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How is Sulekha related to Nandini ?
+Statements:
+I. Sulekha's husband is the only son of Nandini's mother.
+II. Sulekha's brother and Nandini's husband are cousins.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",C,"From I, we conclude that Sulekha is the wife of Nandini's mother's only son i.e. Nandini's brother. Thus, Sulekha is Nandini's sister-in-law.
+From II, we conclude that Sulekha is the cousin of Nandini's husband, which implies that Sulekha is Nandini's sister-in-law.
+"
+1,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  Can Ritesh retire from office X in January 2006, with full pension benefits ?
+Statements:
+I. Ritesh will complete 30 years of service in office X in April 2000 and desires to retire.
+II. As per office X rules, an employee has to complete minimum 30 years of service and attain age of 60. Ritesh has 3 years to complete age of 60.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",E,"Clearly, the facts given in I and II contain two conditions to be fulfilled to get retirement and also indicate that Ritesh fulfills only one condition out of them.
+"
+2,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  What is the code for 'or' in the code language?
+Statements:
+I. 'nik sa te' means 'right or wrong', 'ro da nik' means 'he is right' and 'fe te ro' means 'that is wrong'.
+II. 'pa nik la' means 'that right man', 'sa ne pa' means 'this or that' and 'ne ka re' means 'tell this there'.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",C,"I. In 'right or wrong' and 'he is right', the common word is 'right' and the common code word is 'nik'. So 'nik' means 'right'. In 'right or wrong' and 'that is wrong', the common word is 'wrong' and the common code word is 'te'. So, 'te' means 'wrong'.
+Thus, in 'right or wrong', 'sa' is the code for 'or'. II. In 'that right man' and 'this or that', the common word is 'that' and the common code word is 'pa'. So, 'pa' means 'that'. In 'this or that' and 'tell this there', the common word is 'this' and the common code word is 'ne'. So, 'ne' means 'this'. Thus, in 'this or that', 'sa' is the code for 'or'.
+"
+3,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  Madan is elder than Kamal and Sharad is younger than Arvind. Who among them is the youngest ?
+Statements:
+I. Sharad is younger than Madan.
+II. Arvind is younger than Kamal.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",B,"As given, we have: M > K, A > S.
+From II, K > A. Thus, we have: M > K > A > S.
+So, Sharad is the youngest. From I, M > S. Thus, we have: M>K>A>S or M>A>K>S or M>A>S>K.
+"
+4,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  On which date in August was Kapil born ?
+Statements:
+I. Kapil's mother remembers that Kapil was born before nineteenth but after fifteenth.
+II. Kapil's brother remembers that Kapil was born before seventeenth but after twelfth.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",E,"From I, we conclude that Kapil was born on any one of the dates among 16th, 17th and 18th.
+From II, we conclude that Kapil was born on any one of the dates among 13th, 14th, 15th and 16th.
+Thus, from both I and II, we conclude that Kapil was born on 16th August.
+"

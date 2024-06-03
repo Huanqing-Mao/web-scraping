@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The serious accident in which a person was run down by a car yesterday had again focused attention on the most unsatisfactory state of roads.
+Conclusions:
+I. The accident that occurred was fatal.
+II. Several accidents have so far taken place because of unsatisfactory state of roads.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"Since the accident has caused concern, it must be fatal. So, I follows. The use of the word 'again' in the statement justifies the fact mentioned in II. So, II also follows."
+1,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: In a recent survey report, it has been stated that those who undertake physical exercise for at least half an hour a day are less prone to have any heart ailments.
+Conclusions:
+I. Moderate level of physical exercise is necessary for leading a healthy life.
+II. All people who do desk-bound jobs definitely suffer from heart ailments.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",A,"The statement mentions that chances of heart ailments are greatly reduced by a regular half-hour exercise. So, I follows. However, it talks of only reducing the probability which does not mean that persons involved in sedentary jobs shall definitely suffer from heart ailments. So, II does not follow."
+2,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: A bird in hand is worth two in the bush.
+Conclusions:
+I. We should be content with what we have.
+II. We should not crave for what is not.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"Both the given conclusions clearly bring out the central theme of the proverb given in the statement. So, both I and II follow."
+3,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: This world is neither good nor evil; each man manufactures a world for himself.
+Conclusions:
+I. Some people find this world quite good.
+II. Some people find this world quite bad.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"The statement mentions that the world for a man is as he makes it himself. So, some people might find it good and some quite bad. Thus, both I and II follow."
+4,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The eligibility for admission to the course is minimum second class Master's degree. However, the candidates who have appeared for the final year examination of Master's degree can also apply.
+Conclusions:
+I. All candidates who have yet to get their Master's degree will be there in the list of selected candidates.
+II. All candidates having obtained second class Master's degree will be there in the list of selected candidates.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The statement mentions that the candidates who have obtained second class Master's degree or have appeared for the final year examination of Master's degree, can apply for admission. This implies that both types of candidates may be selected on certain grounds. Thus, some candidates of each type and not all candidates of any one type, may be selected. So, neither I nor II follows."

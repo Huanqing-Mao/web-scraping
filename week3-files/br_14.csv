@@ -1,0 +1,63 @@
+,Question,Answer,Solution
+0,"The questions which are asked in this section depend upon Relation. 
+
+Amit said - ""This girl is the wife of the grandson of my mother"". How is Amit related to the girl?
+
+A. Brother
+B. Grandfather
+C. Husband
+D. Father-in-law
+",D,"The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit. Hence, Amit is the father-in-law of the girl."
+1,"The questions which are asked in this section depend upon Relation. 
+
+A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary?
+
+C is the brother of A and the son of E.
+F is the mother B.
+
+A. Only (1)
+B. Only (2)
+C. Either (1) or (2)
+D. (1) and (2) both
+",B,"A and B are children of D.
+From (1), C is the brother B and son of E.
+Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.
+From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.
+Thus, (2) is sufficient to answer the question.
+"
+2,"The questions which are asked in this section depend upon Relation. 
+
+Pointing towards a man, a woman said, ""His mother is the only daughter of my mother."" How is the woman related to the man?
+
+A. Mother
+B. Grandmother
+C. Sister
+D. Daughter
+",A,"Only daughter of my mother -> myself.
+Hence, the woman is the mother of the man.
+"
+3,"The questions which are asked in this section depend upon Relation. 
+
+If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?
+
+A. D
+B. B
+C. C
+D. Data is inadequate
+",A,"A is the mother of B, B is the brother of C and C is the daughter of D. Hence, D is the father.
+
+
+A      (Parents)        D
+|                       |
+|                       |
+B - is - Brother - of - C"
+4,"The questions which are asked in this section depend upon Relation. 
+
+Introducing Sonia, Aamir says, ""She is the wife of only nephew of only brother of my mother."" How Sonia is related to Aamir?
+
+A. Wife
+B. Sister
+C. Sister-in-law
+D. Data is inadequate
+",A,"Brother of mother means maternal uncle. Hence only nephew of Aamir's maternal uncle means Aamir himself. Therefore Sonia is the wife of Aamir.
+"

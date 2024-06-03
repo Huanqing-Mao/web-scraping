@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Parents are prepared to pay any price for an elite education to their children.
+Conclusions:
+I. All parents these days are very well off.
+II. Parents have an obsessive passion for a perfect development of their children through good schooling.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"The statement implies that people are inclined towards giving their children good education. So, only II follows while I does not."
+1,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: From the next academic year, students will have the option of dropping Mathematics and Science for their school leaving certificate examination.
+Conclusions:
+I. Students who are weak in Science and Mathematics will be admitted.
+II. Earlier students did not have the choice of continuing their education without taking these subjects.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"Since the new system gives the students the option of dropping Science and Mathematics, so students weak in these subjects can also be admitted. So, I follows. Also, it is mentioned that the new system will come into effect from the next academic year. This means that it did not exist previously. So, II also follows."
+2,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: It is almost impossible to survive and prosper in this world without sacrificing ethics and morality.
+Conclusions:
+I. World appreciates some concepts but may not uphold it.
+II. Concept of ethics and morality are not practicable in life.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",B,"Clearly, I is vague and so does not follow. However, II directly follows from the given statement."
+3,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The use of non-conventional sources of energy will eliminate the energy crisis in the world.
+Conclusions:
+I. Modern technology is gradually replacing the conventional sources of energy. 
+II. The excessive exploitation of environment has led to depletion of conventional sources of energy.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,Both I and II directly follow from the given statement.
+4,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: My first and foremost task is to beautify this city - if city X and Y can do it - why can't we do it. - Statement of Municipal Commissioner of city Z after taking over charge.
+Conclusions:
+I. The people of city Z are not aware about the present state of ugliness of their city.
+II. The present Commissioner has worked in city X and Y and has good experience of beautifying cities.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The Commissioner only cites examples of cities X and Y and undertakes to beautify city Z. This does not imply that he has worked in cities X and Y. So, I do not follow. Also, nothing about people's response to the state of the city can be deduced from the statement. Thus, II also does not follow."

@@ -1,0 +1,60 @@
+,Question,Answer,Solution
+0,"The questions which are asked in this section depend upon Relation. 
+
+Introducing a man, a woman said, ""He is the only son of the mother of my mother."" How is the woman related to the man?
+
+A. Mother
+B. Sister
+C. Niece
+D. Maternal aunt
+",C,"The man is the only son of the mother of the woman. Hence, the man is the maternal uncle of the woman. So, the woman is the niece of the man."
+1,"The questions which are asked in this section depend upon Relation. 
+
+Pointing to Gopi, Nalni says, ""I am the daughter of the only son of his grandfather."" How Nalni is related to Gopi?
+
+A. Niece
+B. Daughter
+C. Sister
+D. Cannot be determined
+",C,"Nalni is the daughter of the only son of Gopi's grandfather. Hence, it's clear that Nalni is the sister of Gopi."
+2,"The questions which are asked in this section depend upon Relation. 
+
+A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?
+
+A. Sister
+B. Daughter's-in-law
+C. Sister-in-law
+D. Cousin
+",B,"Since E is the brother of B
+Therefore, A is the father of E
+but D is the wife of E.
+Hence, D is the daughter-in-law of A.
+"
+3,"The questions which are asked in this section depend upon Relation. 
+
+Pointing to a lady a person said, ""The son of her only brother is the brother of my wife."" How is the lady related to the person?
+
+A. Maternal aunt
+B. Grandmother
+C. Sister of father-in-law
+D. None of these
+",C,"Brother of person's wife -> brother-in-law of the person. Hence, the son of lady's brother is brother-in-law of the person.
+Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law.
+"
+4,"The questions which are asked in this section depend upon Relation. 
+
+B5D means B is the father of D.
+B9D means B is the sister of D.
+B4D means B is the brother of D.
+B3D means B is the wife of D.
+
+Which of the following means F is the mother of K?
+
+A. F3M5K
+B. F5M3K
+C. F9M4N3K
+D. F3M5N3K
+",A,"F3M -> F is the wife of M
+M5K -> M is the father of K
+Therefore, F is the mother of K.
+"

@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The manager humiliated Sachin in the presence of his colleagues.
+Conclusions:
+I. The manager did not like Sachin.
+II. Sachin was not popular with his colleagues.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The manager might have humiliated Sachin not because of his dislike but on account of certain negligence or mistake on his part. So, I does not follow. Also, nothing about Sachin's rapport with his colleagues can be deduced from the statement. So, II also does not follow."
+1,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Women's organisations in India have welcomed the amendment of the Industrial Employment Rules 1946 to curb sexual harassment at the work place.
+Conclusions:
+I. Sexual harassment of women at work place is more prevalent in India as compared to other developed countries.
+II. Many organisations in India will stop recruiting women to avoid such problems.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The fact that a certain rule has been more welcomed in a certain country does not imply that the problem is more prevalent there. So, I does not follow. Also, the amendment seeks to discourage only sexual harassment of women and shall in no way discourage employment of women. So, II also does not follow."
+2,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: Nation X faced growing international opposition for its decision to explode eight nuclear weapons at its test site.
+Conclusions:
+I. The citizens of the nation favoured the decision.
+II. Some powerful countries do not want other nations to become as powerful as they are.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"Neither the citizens response to the decision nor the reason for opposition by other nations can be deduced from the statement. So, neither I nor II follows."
+3,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: In a highly centralised power structure, in which even senior cabinet ministers are prepared to reduce themselves to pathetic countries or yesmen airing views that are primarily intended to anticipate or reflect the Prime Minister's own performances, there can be no place for any consensus that is quite different from real or contrived unanimity of opinion, expressed through a well orchestrated endorsement of the leader's actions.
+Conclusions:
+I. The Ministers play safe by not giving anti-government views.
+II. The Prime Minister does not encourage his colleagues to render their own views.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",A,"According to the statement, even senior cabinet ministers are always ready to conform to the Prime Minister's views. So, I follows. However, II contradicts the given statement and so does not follow."
+4,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: National Aluminium Company has moved India from a position of shortage to self-sufficiency in the metal.
+Conclusions:
+I. Previously, India had to import aluminium.
+II. With this speed, it can soon become a foreign exchange earner.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"According to the statement, National Aluminium Company has moved India from a position of shortage in the past to self-sufficiency in the present. This means that previously, India had to import aluminium. So, I follows. Also, it can be deduced that if production increases at the same rate, India can export it in future. So, II also follows."

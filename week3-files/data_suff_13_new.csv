@@ -1,0 +1,78 @@
+,Question,Answer,Solution
+0,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  Who is to the immediate right of P among five persons P, Q, R, S and T facing North ?
+Statements:
+I. R is third to the left of Q and P is second to the right of R.
+II. Q is to the immediate left of T who is second to the right of P.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",C,"From I, we have the order: R, -, P, Q.
+From II, we have the order: P, Q, T.
+Clearly, each one of the above two orders indicates that Q is to the immediate right of P.
+"
+1,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  On which date of the month was Anjali born in February 2004 ?
+Statements:
+I. Anjali was born on an even date of the month.
+II. Anjali's birth date was a prime number.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",E,"From I and II, we conclude that Anjali was born in February 2004 on a date which is an even prime number. Since the only even prime number is 2, so Anjali was born on 2nd February, 2004.
+"
+2,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How is X related to Y?
+Statements:
+I. Y says, ""I have only one brother"".
+II. X says, ""I have only one sister"".
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",D,"The statements in I and II do not provide any clue regarding relation between X and Y.
+"
+3,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  How is F related to P?
+Statements:
+I. P has two sisters M and N.
+II. F's mother is sister of M's father.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",E,"From I and II, we conclude that P is M's brother and so M's father is P's father. So, F is the child of the sister of P's father i.e. F's mother is P's aunt or F is P's cousin.
+"
+4,"In each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+Question:  B is the brother of A. How is A related to B ?
+Statements:
+I. A is the sister of C.
+II. E is the husband of A.
+
+
+A. I alone is sufficient while II alone is not sufficient
+B. II alone is sufficient while I alone is not sufficient
+C. Either I or II is sufficient
+D. Neither I nor II is sufficient
+E. Both I and II are sufficient
+",C,"B is A's brother means A is either brother or sister of B. Now, each one of I and II individually indicates that A is a female, which means that A is B's sister.
+"

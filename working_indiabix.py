@@ -46,11 +46,10 @@ for question in questions:
     content = question.find("div", class_="d-flex flex-row align-items-top justify-content-start")
     q_no = content.find("div", class_="bix-td-qno").get_text() # can just don't show this
     q_main = content.find("div", class_="bix-td-qtxt table-responsive w-100")
-    q_texts = q_main.find_all("p") 
-
     q_text = ""
 
     # deal with <p> embedded in the question div
+    q_texts = q_main.find_all("p") 
     if not q_texts:
         q_text = q_main.get_text()
 
@@ -58,16 +57,27 @@ for question in questions:
         for text in q_texts:
             q_text += f"{text.get_text()}\n"
     
-    options = q_main.find("ol", class_="lr-ol-upper-roman")
+    
+    # deal with bullets in the question itself
+    options = q_main.find("ol") # may need to add class name if there is more than one list and the formatting requirements are different
     bullet_s = ""
 
-    # deal with bullets in the question itself
     if options:
         bullets = add_pointer(list(map(lambda x : x.get_text(), options.find_all("li"))))
         for bullet in bullets:
             bullet_s += f"{bullet}\n"
-    entire = f"{instr}\n\n{q_text.strip()}\n{bullet_s}"
+    
 
+    # deal with tables in the question itself
+    tables = q_main.find("table")
+    table_text = ""
+    if tables:
+        cells = list(map(lambda x : x.get_text(), tables.find_all("td")))
+        for cell in cells:
+            table_text += f"{cell}\n"
+
+    # combine
+    entire = f"{instr}\n\n{q_text.strip()}\n{bullet_s}\n{table_text}"
 
     # add multiple choices/options
     choices = question.find("div", class_="bix-tbl-options")
@@ -100,12 +110,18 @@ for question in questions:
     # deal with <p> embedded
     if exp_para:
         for p in exp_para:
-            explanation += f"{p.get_text()}\n"
+            text = p.get_text()
+            # print(f"\ntype of text = ", type(text))
+            if "→" in text:
+                # print("arrow found")
+                # print(text)
+                text = text.replace("→", "->")
+                # print("replaced text = ", text)
+            explanation += f"{text}\n"
+            # print("exp = ", explanation)
     else:
-        explanation = explanation_ele.get_text().strip()
+        explanation = explanation_ele.get_text().strip().replace("→", "->")
     # print(explanation)
-    
-    
     # final input row
     table.append({'Question' : entire + f"\n" + entire_c, "Answer" : answer, "Solution" : explanation})
 
@@ -114,7 +130,9 @@ for question in questions:
 ######## TESTS #######
 print(f"\n=====================  RESULTS =========================")
 df = pd.DataFrame(table)
+print("Preview of table:")
 print(df)
+# print(df.iloc[0,0])
 output_filename = input("Output file name: ")
 df.to_csv(output_filename)
 print("Success.")

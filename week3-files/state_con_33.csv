@@ -1,0 +1,66 @@
+,Question,Answer,Solution
+0,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: A man must be wise to be a good wrangler. Good wranglers are talkative and boring.
+Conclusions:
+I. All the wise persons are boring.
+II. All the wise persons are good wranglers.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"According to the statement, good wranglers are wise men. But it doesn't mean that all wise men are good wranglers. So, neither I nor II follows."
+1,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: ""The Government will review the present policy of the diesel price in view of further spurt in the international oil prices"". - A spokesman of the Government.
+Conclusions:
+I. The Government will increase the price of the diesel after the imminent spurt in the international oil prices.
+II. The Government will not increase the price of the diesel even after the imminent spurt in the international oil prices.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",C,"The Government seeks to review the policy so as to determine whether the diesel price needs to be increased or it can be kept stable by adjusting certain other factors. So, either decision may be taken. Thus, either I or II follows."
+2,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: The Government of country X has recently announced several concessions and offered attractive package tours for foreign visitors.
+Conclusions:
+I. Now, more number of foreign tourists will visit the country. 
+II. The Government of country X seems to be serious in attracting tourists.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"Clearly, the government has taken the step to attract more tourists. So, both I and II follow."
+3,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: After this amendment to the Constitution, no child below the age of 14 years will be employed to work in any factory or mine or engaged in any other hazardous employment.
+Conclusions:
+I. Before this amendment, children below 14 years were employed to work in factory or mine.
+II. The employers must now abide by this amendment to the Constitution.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",E,"The statement mentions that after the amendment, no child below 14 years will be engaged in hazardous employment. This means that before the amendment, the practice of employing children below 14 years was in vogue. This in turn means that employers will have to abide by the amendment. So, both I and II follow."
+4,"In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.
+
+Statements: It has been decided by the Government to withdraw 33% of the subsidy on cooking gas from the beginning of next month. - A spokesman of the Government.
+Conclusions:
+I. People now no more desire or need such subsidy from Government as they can afford increased price of the cooking gas.
+II. The price of the cooking gas will increase at least by 33% from the next month.
+
+A. Only conclusion I follows
+B. Only conclusion II follows
+C. Either I or II follows
+D. Neither I nor II follows
+E. Both I and II follow
+",D,"The decision to withdraw subsidy has clearly been taken to compensate for the loss and not because people can now afford to pay more for cooking gas. So, I does not follow. Also, the statement talks of withdrawing 33% of the prevailing subsidy and not of reducing 33% of the actual price. So, II also does not follow."

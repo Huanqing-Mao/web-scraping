@@ -1,0 +1,60 @@
+,Question,Answer,Solution
+0,"The questions which are asked in this section depend upon Relation. 
+
+Pointing to a photograph Anjali said, ""He is the son of the only son of my grandfather."" How is the man in the photograph related to Anjali?
+
+A. Brother
+B. Uncle
+C. Son
+D. Data is inadequate
+",A,"The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father. Hence, the boy is the brother of Anjali.
+"
+1,"The questions which are asked in this section depend upon Relation. 
+
+Pointing to a person, Deepak said, ""His only brother is the father of my daughter's father"". How is the person related to Deepak?
+
+A. Father
+B. Grandfather
+C. Uncle
+D. Brother-in-law
+",C,"Father of Deepak's daughter's father -> Deepak's father.
+Hence, the person in the brother of Deepak's father.
+Therefore, the person is the uncle of Deepak.
+"
+2,"The questions which are asked in this section depend upon Relation. 
+
+P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?
+
+A. Mother
+B. Grandmother
+C. Aunt
+D. Data inadequate
+",B,"P is the mother of K
+K is the sister of D
+D is the father of J.
+Therefore, J is the nephew or niece of K and P is the grandmother of J.
+"
+3,"The questions which are asked in this section depend upon Relation. 
+
+If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?
+
+A. Grand son
+B. Grand daughter
+C. Nephew
+D. Data is inadequate
+",D,"As the sex of Q is not known, hence, data is inadequate."
+4,"The questions which are asked in this section depend upon Relation. 
+
+If A $ B means A is the brother of B; A @ B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?
+
+A. P @ Q $ T # U * W
+B. P @ W $ Q * T # U
+C. P @ Q $ W * T # U
+D. P @ Q $ T # W * U
+",A,"P @ Q -> P is the wife of Q ...(1)
+Q $ T -> Q is the brother of T ...(2)
+T # U -> T is the daughter of U
+Hence, -> Q is the son of U ...(3)
+U * W -> U is the father of W.
+From (1) and (3), U is the father-in-law of P.
+"
