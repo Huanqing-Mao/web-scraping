@@ -2,8 +2,8 @@ import working_javapoint as wj
 import pandas as pd
 
 df = pd.DataFrame()
-
-with open('list_of_urls.txt', 'r') as file:
+inputfile = input("Batch file:")
+with open(inputfile, 'r') as file:
     # Read all lines into a list
     lines = file.readlines()
 

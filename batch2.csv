@@ -1,0 +1,217 @@
+,Question,Answer,Solution
+0,"6) In a certain code, 'REACTION' is written as 'RAETCOIN'. How is 'BEAUTY' written in that code?
+
+A. BAETUY
+B. BTUAEY
+C. BTAUEY
+D. None of these
+
+
+",A,"The first and last letter of the given word remains the same. The letters between these letters interchange their positions in a pair of two. So, following the same rule, B and Y will remain the same, and the EA becomes AE; UT becomes TU. So, the BEAUTY will be written as BAETUY in this code.
+"
+1,"7) In a certain code 'LION' is written as LMGJ. How is 'MILK' written in that code?
+
+A. JKFL
+B. IJGK
+C. KLIM
+D. KILM
+
+
+",B,"The order of the words is reversed, and then each letter is moved two steps backward. The reverse of MILK is KLIM. On moving letters two steps backward, K becomes I; L becomes J; I becomes G and M becomes K.
+"
+2,"8) In a certain code 'WRITER' is written as 'SFUJSX'. How is 'DOCTOR' written in that code?
+
+A. SUPPDE
+B. SPPUDE
+C. SPUDPE
+D. SPUPDE
+
+
+",C,"The order of the words is reversed and then each letter is moved one step forward. The reverse of the DOCTOR is ROTCOD. On moving letters one step forward R becomes S; O becomes P; T becomes U; C becomes D; O becomes P, and D becomes E. So, the DOCTOR will be written as SPUDPE in that code.
+"
+3,"9) In a certain code 'BILLION' is written as IBLLOIN. How is MILTON written in that code?
+
+A. IMTLNO
+B. IMLTNO
+C. NOTLIM
+D. None of these
+
+
+",A,"The letters are interchanged in each pair of the word. So, MI becomes IM; LT becomes TL and ON becomes NO. So, MILTON is written as IMTLNO in that code.
+"
+4,"10) If every alternate letter from B onwards is written in small letters, whereas the other letters are written in capitals, how will the 3rd month from May be coded?
+
+A. JuLy
+B. jULY
+C. AuGuSt
+D. AUGUSt
+
+
+",D,"As per the question, the small letters are b,d,f,h,j,l,n,p,r,t,v,x,z. So, the third month from May, which is August, will be coded as AUGUSt.
+"
+0,"11) If the letters of the word 'BUILDING' are arranged alphabetically, which letter would be farthest from the first letter of the word?
+
+A. D
+B. U
+C. I
+D. N
+
+
+",B,"U is the farthest letter from the first letter of the word. It is the 21 letter of the English alphabets; remaining words of the word come before U in the English alphabets.
+"
+1,"12) If HONEST is coded as NOHTSE and JOYFUL is coded as YOJLUF, LOVING is coded as
+
+A. VOLGNI
+B. GNIVOL
+C. VOLGNI
+D. LNIVOG
+
+
+",A,"The letters in the first half and the second half of the word are written in reverse order. So, LOVING is coded as VOLGNI.
+"
+2,"13) In a certain code, BAT is written as PATB, and LOST is written as POSTL. How is WING written in that code?
+
+A. PGNIW
+B. PINGW 
+C. PWING
+D. None of these
+
+
+",B,"The first letter of the word is moved to the last position, and P is placed at the start to form the code. So, WING is written as PINGW in that code.
+"
+3,"14) In a certain code, AIRLINE is written as ENILRIA7. How is RAILWAY written in that code?
+
+A. YAWLIAR7
+B. YAWLIAR8
+C. ARLIAYY7
+D. LIALYAW8
+
+
+",A,"The letters of the word are written in reverse order, then the count of the letters is written to the right side of the word. The word RAILWAY has 7 letters. So, it will be written as YAWLIAR7 in that code.
+"
+4,"15) IF GUJRAT is written as GGJJAA, how will CHENNAI be written in that code?
+
+A. CCHHAAII
+B. CCEEAAII
+C. CCEENNII
+D. None of these
+
+
+",C,"The letters at the alternate places are repeated twice to code GUJRAT as GGJJAA. So, the CHENNAI will be written as CCEENNII in this code.
+"
+0,"6) Assertion (A): Copper is more expensive than silver. 
+Reason (R): Copper is a good conductor of electricity.
+
+A. Both A and R are true and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",D,"Copper is cheaper than silver and it is a good conductor of electricity.
+"
+1,"7) Assertion (A): We sweat less in hot and humid climate.
+Reason (R): Sweat evaporates quickly in hot and humid climate. 
+
+A. Both A and R are true and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",E,"Our body sweats more in hot and humid climate, and sweat does not evaporate quickly in hot and humid climate.
+"
+2,"8) Assertion (A): We should stop weeds from growing in the crop fields.
+Reason (R): Weeds leave no space for crops to grow.
+
+A. Both A and R are true, and R is the correct explanation of A.
+
+
+",C,"Weeds should not be allowed to grow in the crop fields as they compete with the crops for resources like sunlight, water, and nutrients. So, weeds affect the crop yields, and they do not compete for space.
+"
+3,"9) Assertion (A): Diamond is used for cutting the glass.
+Reason (R): The refractive index of diamond is high. 
+
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",B,"The molecular structure of a diamond makes it so hard that it can cut the glass. It has a high refractive index, but it does not make it hard.
+"
+4,"10) Assertion (A): The water kept in the earthen pot cools down in summers. 
+Reason (R): The water evaporates through the pores, which causes cooling. 
+
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",A,"The earthen pots have pores through which water can evaporate, and it is a fact that evaporation causes cooling.
+"
+0,"11) Assertion (A): The bulb filament is made of silver. 
+Reason (R): Silver does not melt.
+
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false. 
+
+
+",E,"The bulb filaments are not made of silver and silver can be melted.
+"
+1,"12) Assertion (A): Telephone wires sag more in summers than winters. 
+Reason (R): The wires expand due to heat.
+
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",A,"The metal of the wires expands in summers due to heat and contracts in winters due to low temperature.
+"
+2,"13) Assertion (A): The handles of pressure cooker are made of ebonite.
+Reason (R): Ebonite is a hard metal which does not break easily. 
+
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",C,"The pressure cooker handles are made of ebonite because it is a bad conductor of heat, so the handles do not heat up. Ebonite is not a metal.
+"
+3,"14) Assertion (A): The earthworms reduce the fertility of the soil.
+Reason (R): They make the soil soft and porous.
+
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",D,"The earthworms are good for agriculture. They make soil soft and porous by creating burrows. It allows more water and air to enter in the soil which is good for agriculture.
+"
+4,"15) Assertion (A): A fish has a streamlined body.
+Reason (R): The streamlined body helps fishes move faster in the water. 
+
+A. Both A and R are true, and R is the correct explanation of A.
+B. Both A and R are true, but R is not the correct explanation of A.
+C. A is true, but R is false.
+D. A is false, but R is true.
+E. Both A and R are false.
+
+
+",A,"It is true that a fish has a streamlined body. A streamlined shape can move faster in water than other shapes.
+"

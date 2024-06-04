@@ -107,6 +107,7 @@ def url_to_df(url):
             row['Question'] = question_main
             row['Answer'] = ''.join(ans.find_all(string=True, recursive=False)).strip()
             row['Solution'] = solution.replace("\n",'', 1)
+            row['url'] = url
             table.append(row)
         
         
