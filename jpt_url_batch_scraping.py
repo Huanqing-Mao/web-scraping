@@ -13,9 +13,13 @@ list = [line.strip() for line in lines]
 
 for i in range(len(list)):
     url = list[i]
-    df1 = wj.url_to_df(url)
-    print(f"Progress {i + 1} / {len(list)} ")
-    df = df._append(df1)
+    try:
+        df1 = wj.url_to_df(url)
+        print(f"Progress {i + 1} / {len(list)} ")
+        df = df._append(df1)
+    except:
+        print("Invalid format. Please check if your input file is a list of valid urls.")
+        quit()
 
 
 print("======= FINAL DATAFRAME =======")
