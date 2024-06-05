@@ -1,6 +1,7 @@
 import working_javapoint as wj
 import pandas as pd
 
+
 df = pd.DataFrame()
 inputfile = input("Batch file:")
 with open(inputfile, 'r') as file:
