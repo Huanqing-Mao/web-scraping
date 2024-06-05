@@ -3,7 +3,7 @@ import pandas as pd
 
 
 df = pd.DataFrame()
-inputfile = input("Batch file:")
+inputfile = input("Batch file: ")
 with open(inputfile, 'r') as file:
     # Read all lines into a list
     lines = file.readlines()
@@ -20,5 +20,5 @@ for i in range(len(list)):
 
 print("======= FINAL DATAFRAME =======")
 print(df)
-filename = input("Output file:")
+filename = input("Output file: ")
 df.to_csv(filename)
