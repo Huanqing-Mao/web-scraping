@@ -1,6 +1,10 @@
 import working_javapoint as wj
 import pandas as pd
 
+'''
+Note that the Question column may contain leading spaces, select
+"wrap text" to view the questions in Excel
+'''
 
 df = pd.DataFrame()
 inputfile = input("Batch file: ")
@@ -26,3 +30,5 @@ print("======= FINAL DATAFRAME =======")
 print(df)
 filename = input("Output file: ")
 df.to_csv(filename)
+print("Success.")
+print("Note that the Question column may contain leading spaces, select 'wrap text' to view the questions in Excel")
