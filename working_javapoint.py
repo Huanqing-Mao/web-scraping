@@ -97,7 +97,6 @@ def url_to_df(url):
         
         # Export data as a Data Frame
         df = pd.DataFrame(table)
-        print("Done organising data.")
         return df
         
         
