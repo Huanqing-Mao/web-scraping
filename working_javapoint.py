@@ -47,6 +47,7 @@ def url_to_df(url):
             while next_sibling and (next_sibling.name == 'div' and 'testanswer' in next_sibling.get('class', [])):
                 group['ans-key'].append(next_sibling)
                 next_sibling = next_sibling.find_next_sibling()
+            
                 
 
             i += 1
@@ -102,8 +103,4 @@ def url_to_df(url):
         
     else:
         print(f"Failed to connect to {url}.")
-
-
-
-
 

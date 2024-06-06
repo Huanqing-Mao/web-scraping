@@ -23,7 +23,7 @@ for i in range(len(list)):
         print(f"Progress {i + 1} / {len(list)} ")
         df = df._append(df1)
     except:
-        print("Invalid format. Please check if your input file is a list of valid urls.")
+        print("Connection failed. Please check format of the source html.")
         quit()
 
 
