@@ -8,6 +8,7 @@ Note that the Question column may contain leading spaces, select
 
 df = pd.DataFrame()
 inputfile = input("Batch file: ")
+
 with open(inputfile, 'r') as file:
     # Read all lines into a list
     lines = file.readlines()
