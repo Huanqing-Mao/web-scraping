@@ -1,0 +1,4 @@
+"""
+JavatPoint.com scraping scripts.
+"""
+
